@@ -37,6 +37,8 @@
     ]
   },
   "devDependencies": {
+    "@iconify/icons-bx": "^1.1.0",
+    "@iconify/react": "^1.1.4",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.20.0",
     "eslint-config-airbnb": "^18.2.1",
