@@ -1,0 +1,2073 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg7050" inkscape:export-filename="C:\Users\roni.j.junior\Google Drive\WikipÃ©dia\g9485.png" inkscape:export-xdpi="90" inkscape:export-ydpi="90" inkscape:version="0.91 r13725" sodipodi:docname="MetrÃ´_SP.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 841.9 595.3"
+	 style="enable-background:new 0 0 841.9 595.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FCBD0F;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#96387F;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#006D58;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#ED4E17;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#003C86;}
+	.st5{fill:none;}
+	.st6{enable-background:new    ;}
+	.st7{font-family:'ArialMT';}
+	.st8{font-size:9.4477px;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st10{font-size:9.7978px;}
+	.st11{fill-rule:evenodd;clip-rule:evenodd;fill:#808080;}
+	.st12{font-size:9.8574px;}
+	.st13{font-size:9.4954px;}
+	.st14{font-size:8.7128px;}
+	.st15{fill-rule:evenodd;clip-rule:evenodd;fill:#C52F5E;}
+	.st16{fill:#FFFFFF;enable-background:new    ;}
+	.st17{font-family:'Arial-BoldMT';}
+	.st18{font-size:7.0857px;}
+	.st19{fill-rule:evenodd;clip-rule:evenodd;fill:#E0735E;}
+	.st20{font-size:3.9364px;}
+	.st21{fill-rule:evenodd;clip-rule:evenodd;fill:#889093;}
+	.st22{opacity:0;}
+	.st23{font-size:9.8573px;}
+	.st24{fill-rule:evenodd;clip-rule:evenodd;fill:#008F99;}
+	.st25{fill-rule:evenodd;clip-rule:evenodd;fill:#0082B2;}
+	.st26{font-size:7.2182px;}
+	.st27{fill-rule:evenodd;clip-rule:evenodd;fill:#252A73;}
+	.st28{fill-rule:evenodd;clip-rule:evenodd;fill:#929184;}
+	.st29{fill-rule:evenodd;clip-rule:evenodd;}
+	.st30{font-size:7.873px;}
+	.st31{font-size:9.7906px;}
+	.st32{font-size:9.7905px;}
+	.st33{fill-rule:evenodd;clip-rule:evenodd;fill:#00B398;fill-opacity:0;}
+	.st34{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFCFF;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" id="base" inkscape:current-layer="g7073" inkscape:cx="561.75224" inkscape:cy="316.28969" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="684" inkscape:window-maximized="1" inkscape:window-width="1366" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:zoom="1.0748023" pagecolor="#ffffff" showgrid="false" showguides="false">
+	</sodipodi:namedview>
+<g id="layer1" transform="translate(0,-308.26772)" inkscape:groupmode="layer" inkscape:label="Camada 1">
+	<g id="g9368" transform="matrix(1.2499986,0,0,1.2499986,-568.80026,244.49978)">
+		<g id="g7073">
+			<v:custProps>
+				<v:cp  v:cal="0" v:langID="1046" v:lbl="Largura da rodovia" v:nameU="MotorwayW" v:type="2" v:val="VT0(0.39370078740157):24">
+					</v:cp>
+				
+					<v:cp  v:cal="0" v:langID="1046" v:lbl="Largura de estrada de duas vias" v:nameU="DualCarW" v:type="2" v:val="VT0(0.39370078740157):24">
+					</v:cp>
+				
+					<v:cp  v:cal="0" v:langID="1046" v:lbl="Largura da rota principal" v:nameU="PrimaryW" v:type="2" v:val="VT0(0.29527559055118):24">
+					</v:cp>
+				
+					<v:cp  v:cal="0" v:langID="1046" v:lbl="Largura da rota secundária" v:nameU="SecondaryW" v:type="2" v:val="VT0(0.29527559055118):24">
+					</v:cp>
+				
+					<v:cp  v:cal="0" v:langID="1046" v:lbl="Largura de estrada/rua estreita" v:nameU="NarrowW" v:type="2" v:val="VT0(0.19685039370079):24">
+					</v:cp>
+				
+					<v:cp  v:cal="0" v:format="" v:langID="1046" v:lbl="Largura de estrada" v:nameU="RoadThickness" v:type="2" v:val="VT0(0.0625):24">
+					</v:cp>
+				<v:cp  v:cal="0" v:langID="1046" v:lbl="Largura de metrô" v:nameU="MetroThickness" v:type="2" v:val="VT0(0.0625):24">
+					</v:cp>
+			</v:custProps>
+			
+				<v:pageProperties  v:drawingScale="0.0393701" v:drawingUnits="24" v:pageScale="0.0393701" v:shadowOffsetX="8.50394" v:shadowOffsetY="-8.50394">
+				</v:pageProperties>
+			<v:layer  v:index="0" v:name="Metrô"></v:layer>
+			<g id="shape147-1" transform="matrix(0.72086678,-0.41031835,0.44020549,0.67192451,441.32963,-83.42126)">
+				<v:custProps>
+					<v:cp  v:langID="1046" v:lbl="Largura de Metrô" v:nameU="MetroThickness" v:type="2" v:val="VT0(0.0625):24"></v:cp>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud  v:nameU="Thickness" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="ScaleFactor" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+				</v:userDefs>
+				<path id="path7080" inkscape:connector-curvature="0" class="st0" d="M-15,608h35.6c2,0,3.6-1.6,3.6-3.6c0-2-1.6-3.6-3.6-3.6
+					H-15c-2,0-3.6,1.6-3.6,3.6C-18.6,606.4-17,608-15,608z"/>
+			</g>
+			<g id="shape144-3" transform="matrix(0.10957045,-0.78064903,0.83751068,0.1021313,188.54683,306.83702)">
+				<v:custProps>
+					<v:cp  v:langID="1046" v:lbl="Largura de Metrô" v:nameU="MetroThickness" v:type="2" v:val="VT0(0.0625):24"></v:cp>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud  v:nameU="Thickness" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="ScaleFactor" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+				</v:userDefs>
+				<path id="path7085" inkscape:connector-curvature="0" class="st0" d="M72.6,631.3l55.8,0c2,0,3.6-1.6,3.6-3.6
+					c0-2-1.6-3.6-3.6-3.6H72.6c-2,0-3.6,1.6-3.6,3.6S70.6,631.3,72.6,631.3z"/>
+			</g>
+			<g id="shape143-5" transform="matrix(0.56364861,-0.58636088,0.62907078,0.52538045,345.63103,-51.077338)">
+				<v:custProps>
+					<v:cp  v:langID="1046" v:lbl="Largura de Metrô" v:nameU="MetroThickness" v:type="2" v:val="VT0(0.0625):24"></v:cp>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud  v:nameU="Thickness" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="ScaleFactor" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+				</v:userDefs>
+				<path id="path7090" inkscape:connector-curvature="0" class="st0" d="M-2,613.8h43.9c2,0,3.6-1.6,3.6-3.6c0-2-1.6-3.6-3.6-3.6
+					H-2c-2,0-3.6,1.6-3.6,3.6C-5.6,612.1-4,613.8-2,613.8z"/>
+			</g>
+			<g id="shape142-7" transform="matrix(0.53802949,-0.60691083,0.65111756,0.50150071,360.74938,-66.128181)">
+				<v:custProps>
+					<v:cp  v:langID="1046" v:lbl="Largura de Metrô" v:nameU="MetroThickness" v:type="2" v:val="VT0(0.0625):24"></v:cp>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud  v:nameU="Thickness" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="ScaleFactor" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+				</v:userDefs>
+				<path id="path7095" inkscape:connector-curvature="0" class="st0" d="M-8.7,613.3h55.9c2,0,3.6-1.6,3.6-3.6c0-2-1.6-3.6-3.6-3.6
+					H-8.7c-2,0-3.6,1.6-3.6,3.6C-12.3,611.7-10.7,613.3-8.7,613.3z"/>
+			</g>
+			<g id="shape102-9" transform="matrix(0.55559026,-0.57996527,0.63606694,0.50302992,410.75962,128.45526)">
+				<v:custProps>
+					<v:cp  v:langID="1046" v:lbl="Largura de Metrô" v:nameU="MetroThickness" v:type="2" v:val="VT0(0.0625):24"></v:cp>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud  v:nameU="Thickness" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="ScaleFactor" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+				</v:userDefs>
+				<path id="path7100" inkscape:connector-curvature="0" class="st1" d="M22,570.9l28.3-7.6c2.4-0.7,4.9-3.2,5.6-5.6
+					c0.7-2.4-0.8-3.9-3.2-3.2c0,0,0,0,0,0l-28.3,7.6c-2.4,0.7-4.9,3.2-5.6,5.6S19.6,571.6,22,570.9z"/>
+			</g>
+			<g id="shape4-11" transform="matrix(0.81325564,0,0,0.78730154,736.80149,-76.10093)">
+				<v:custProps>
+					<v:cp  v:langID="1046" v:lbl="Largura de Metrô" v:nameU="MetroThickness" v:type="2" v:val="VT0(0.0625):24"></v:cp>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud  v:nameU="Thickness" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="ScaleFactor" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+				</v:userDefs>
+				<path id="path7105" inkscape:connector-curvature="0" class="st1" d="M-69.3,609.4H54.9c2,0,3.6-1.6,3.6-3.6s-1.6-3.6-3.6-3.6
+					H-69.3c-2,0-3.6,1.6-3.6,3.6S-71.3,609.4-69.3,609.4z"/>
+			</g>
+			<g id="shape25-13" transform="matrix(0.59725615,0.55670626,-0.59725615,0.55670626,1280.7371,36.652618)">
+				<v:custProps>
+					<v:cp  v:langID="1046" v:lbl="Largura de Metrô" v:nameU="MetroThickness" v:type="2" v:val="VT0(0.0625):24"></v:cp>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud  v:nameU="Thickness" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="ScaleFactor" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+				</v:userDefs>
+				<path id="path7110" inkscape:connector-curvature="0" class="st2" d="M-135.7,718h34.9c2,0,3.6-1.6,3.6-3.6s-1.6-3.6-3.6-3.6
+					h-34.9c-2,0-3.6,1.6-3.6,3.6C-139.3,716.4-137.7,718-135.7,718z"/>
+			</g>
+			<g id="shape2-15" transform="matrix(0.84464775,0,0,0.78730154,747.75262,-270.788)">
+				<v:custProps>
+					<v:cp  v:langID="1046" v:lbl="Largura de Metrô" v:nameU="MetroThickness" v:type="2" v:val="VT0(0.0625):24"></v:cp>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud  v:nameU="Thickness" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="ScaleFactor" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+				</v:userDefs>
+				<path id="path7115" inkscape:connector-curvature="0" class="st3" d="M-69.3,658.9H73.1c2,0,3.6-1.6,3.6-3.6s-1.6-3.6-3.6-3.6
+					H-69.3c-2,0-3.6,1.6-3.6,3.6S-71.3,658.9-69.3,658.9z"/>
+			</g>
+			<g id="shape1-17" transform="matrix(0,0.78730154,-0.84464775,0,1470.7077,83.878586)">
+				<v:custProps>
+					<v:cp  v:langID="1046" v:lbl="Largura de Metrô" v:nameU="MetroThickness" v:type="2" v:val="VT0(0.0625):24"></v:cp>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud  v:nameU="Thickness" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="ScaleFactor" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+				</v:userDefs>
+				<path id="path7120" inkscape:connector-curvature="0" class="st4" d="M-8.3,817.6h527.5c2,0,3.6-1.6,3.6-3.6s-1.6-3.6-3.6-3.6
+					H-8.3c-2,0-3.6,1.6-3.6,3.6S-10.3,817.6-8.3,817.6z"/>
+			</g>
+			<g id="shape3-19" transform="matrix(0,0.78730154,-0.84464775,0,1458.1055,395.73046)">
+				<v:custProps>
+					<v:cp  v:langID="1046" v:lbl="Largura de Metrô" v:nameU="MetroThickness" v:type="2" v:val="VT0(0.0625):24"></v:cp>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud  v:nameU="Thickness" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="ScaleFactor" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+				</v:userDefs>
+				<path id="path7125" inkscape:connector-curvature="0" class="st2" d="M-87.6,814.7h40.7c2,0,3.6-1.6,3.6-3.6s-1.6-3.6-3.6-3.6
+					h-40.7c-2,0-3.6,1.6-3.6,3.6S-89.6,814.7-87.6,814.7z"/>
+			</g>
+			<g id="shape6-23" transform="matrix(0.84464775,0,0,0.78730154,869.93091,-474.00785)">
+				<desc  id="desc7135">Tucuruvi</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="28.0787" cy="711.44" height="20" width="56.16"></v:textRect>
+				<rect id="rect7137" x="-98.2" y="694.5" class="st5" width="44.9" height="16"/>
+				<text id="text7139" transform="matrix(1.0161 0 0 1.0161 -95.039 705.4041)" class="st6 st7 st8">Tucuruvi<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape7-26" transform="matrix(0.84464775,0,0,0.78730154,862.74804,-461.79523)">
+				<ellipse id="ellipse7144" class="st9" cx="-94.3" cy="705.2" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape8-28" transform="matrix(0.84464775,0,0,0.78730154,870.15644,-456.15343)">
+				<desc  id="desc7149">Parada Inglesa</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="45.0866" cy="711.44" height="20" width="90.18"></v:textRect>
+				<rect id="rect7151" x="-98.3" y="690" class="st5" width="72.1" height="16"/>
+				<text id="text7153" transform="matrix(1.0161 0 0 1.0161 -95.0932 700.8685)" class="st6 st7 st8">Parada Inglesa<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape9-31" transform="matrix(0.84464775,0,0,0.78730154,862.97355,-440.65539)">
+				<ellipse id="ellipse7158" class="st9" cx="-94.3" cy="699.8" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape10-33" transform="matrix(0.84464775,0,0,0.78730154,870.3828,-435.01437)">
+				<desc  id="desc7163">Jardim São Paulo</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="52.1732" cy="711.44" height="20" width="104.35"></v:textRect>
+				<rect id="rect7165" x="-98.3" y="684.6" class="st5" width="83.5" height="16"/>
+				<text id="text7167" transform="matrix(1.0161 0 0 1.0161 -95.1467 695.4987)" class="st6 st7 st8">Jardim São Paulo•Ayrton Senna<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape11-36" transform="matrix(0.84464775,0,0,0.78730154,862.97355,-420.44615)">
+				<ellipse id="ellipse7172" class="st9" cx="-94.3" cy="694.6" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape12-38" transform="matrix(0.84464775,0,0,0.78730154,870.3828,-414.80513)">
+				<desc  id="desc7177">Santana</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="28.0787" cy="711.44" height="20" width="56.16"></v:textRect>
+				<rect id="rect7179" x="-98.3" y="679.5" class="st5" width="44.9" height="16"/>
+				<text id="text7181" transform="matrix(1.0161 0 0 1.0161 -95.1467 690.3651)" class="st6 st7 st8">Santana<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape13-41" transform="matrix(0.84464775,0,0,0.78730154,862.97355,-400.48491)">
+				<ellipse id="ellipse7186" class="st9" cx="-94.3" cy="689.6" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape14-43" transform="matrix(0.84464775,0,0,0.78730154,870.3828,-394.84311)">
+				<desc  id="desc7191">Carandiru</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="30.9134" cy="711.44" height="20" width="61.83"></v:textRect>
+				<rect id="rect7193" x="-98.3" y="674.4" class="st5" width="49.5" height="16"/>
+				<text id="text7195" transform="matrix(1.0161 0 0 1.0161 -95.1467 685.294)" class="st6 st7 st8">Carandiru<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape15-46" transform="matrix(0.84464775,0,0,0.78730154,862.97355,-379.22146)">
+				<ellipse id="ellipse7200" class="st9" cx="-94.3" cy="684.2" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape16-48" transform="matrix(0.84464775,0,0,0.78730154,870.3828,-373.58046)">
+				<desc  id="desc7205">Portuguesa-Tietê</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="50.7559" cy="711.44" height="20" width="101.52"></v:textRect>
+				<rect id="rect7207" x="-98.3" y="669" class="st5" width="81.2" height="16"/>
+				<text id="text7209" transform="matrix(1.0161 0 0 1.0161 -95.1467 679.8927)" class="st6 st7 st8">Portuguesa•Tietê<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape17-51" transform="matrix(0.84464775,0,0,0.78730154,862.97355,-356.90383)">
+				<ellipse id="ellipse7214" class="st9" cx="-94.3" cy="678.5" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape18-53" transform="matrix(0.84464775,0,0,0.78730154,870.3828,-351.26281)">
+				<desc  id="desc7219">Armênia</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="28.0787" cy="711.44" height="20" width="56.16"></v:textRect>
+				<rect id="rect7221" x="-98.3" y="663.3" class="st5" width="44.9" height="16"/>
+				<text id="text7223" transform="matrix(1.0161 0 0 1.0161 -95.1467 674.2231)" class="st6 st7 st8">Armênia<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape19-56" transform="matrix(0.84464775,0,0,0.78730154,862.97355,-336.81898)">
+				<ellipse id="ellipse7228" class="st9" cx="-94.3" cy="673.4" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape20-58" transform="matrix(0.84464775,0,0,0.78730154,870.3828,-331.17718)">
+				<desc  id="desc7233">Tiradentes</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="33.748" cy="711.44" height="20" width="67.5"></v:textRect>
+				<rect id="rect7235" x="-98.3" y="658.2" class="st5" width="54" height="16"/>
+				<text id="text7237" transform="matrix(1.0161 0 0 1.0161 -95.1467 669.121)" class="st6 st7 st8">Tiradentes<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape22-61" transform="matrix(0.84464775,0,0,0.78730154,870.3828,-309.91374)">
+				<desc  id="desc7242">Luz</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="15.3228" cy="711.44" height="20" width="30.65"></v:textRect>
+				<rect id="rect7244" x="-98.3" y="652.8" class="st5" width="24.5" height="16"/>
+				<text id="text7246" transform="matrix(1.0161 0 0 1.0161 -95.1467 663.7191)" class="st6 st7 st8">Luz<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape23-64" transform="matrix(0.84464775,0,0,0.78730154,862.97355,-294.41571)">
+				<ellipse id="ellipse7251" class="st9" cx="-94.3" cy="662.6" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape26-70" transform="matrix(0.84464775,0,0,0.78730154,870.3828,-256.35283)">
+				<desc  id="desc7267">Sé</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="12.4882" cy="711.44" height="20" width="24.98"></v:textRect>
+				<rect id="rect7269" x="-98.3" y="639.2" class="st5" width="20" height="16"/>
+				<text id="text7271" transform="matrix(1.0161 0 0 1.0161 -95.1467 650.1132)" class="st6 st7 st8">Sé<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape27-73" transform="matrix(0.59725615,-0.55670626,0.59725615,0.55670626,469.86659,-105.46491)">
+				<v:custProps>
+					<v:cp  v:langID="1046" v:lbl="Largura de Metrô" v:nameU="MetroThickness" v:type="2" v:val="VT0(0.0625):24"></v:cp>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud  v:nameU="Thickness" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="ScaleFactor" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+				</v:userDefs>
+				<path id="path7276" inkscape:connector-curvature="0" class="st3" d="M-30.6,602.8h25.7c2,0,3.6-1.6,3.6-3.6s-1.6-3.6-3.6-3.6
+					h-25.7c-2,0-3.6,1.6-3.6,3.6C-34.2,601.2-32.6,602.8-30.6,602.8z"/>
+			</g>
+			<g id="shape28-75" transform="matrix(0.84464775,0,0,0.78730154,917.21767,-288.64164)">
+				<v:custProps>
+					<v:cp  v:langID="1046" v:lbl="Largura de Metrô" v:nameU="MetroThickness" v:type="2" v:val="VT0(0.0625):24"></v:cp>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud  v:nameU="Thickness" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="ScaleFactor" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+				</v:userDefs>
+				<path id="path7281" inkscape:connector-curvature="0" class="st3" d="M-109.4,663.4h237.8c2,0,3.6-1.6,3.6-3.6s-1.6-3.6-3.6-3.6
+					h-237.8c-2,0-3.6,1.6-3.6,3.6S-111.4,663.4-109.4,663.4z"/>
+			</g>
+			<g id="shape29-77" transform="matrix(0.84464775,0,0,0.78730154,893.08017,-271.6312)">
+				<ellipse id="ellipse7286" class="st9" cx="-101.5" cy="656.8" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape30-79" transform="matrix(0.59725615,0.55670626,-0.59725615,0.55670626,1322.6578,-96.30309)">
+				<desc  id="desc7291">Pedro II</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="28.0787" cy="711.44" height="20" width="56.16"></v:textRect>
+				<polygon id="rect7293" class="st5" points="-118.8,732.9 -73.9,732.9 -73.9,748.9 -118.8,748.9 				"/>
+				<text id="text7295" transform="matrix(0.9798 0 0 0.9798 -115.6042 743.7617)" class="st6 st7 st10">Pedro II<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape32-82" transform="matrix(0.59725615,0.55670626,-0.59725615,0.55670626,1338.2247,-108.58342)">
+				<desc  id="desc7300">Brás</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="16.5465" cy="711.44" height="20" width="33.1"></v:textRect>
+				<polygon id="rect7302" class="st5" points="-119.2,737.7 -92.7,737.7 -92.7,753.7 -119.2,753.7 				"/>
+				<text id="text7304" transform="matrix(0.9798 0 0 0.9798 -116.005 748.5741)" class="st6 st7 st10">Brás<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape33-85" transform="matrix(0.84464775,0,0,0.78730154,932.39262,-289.9525)">
+				<ellipse id="ellipse7309" class="st9" cx="-110.8" cy="661.5" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape34-87" transform="matrix(0.59725615,0.55670626,-0.59725615,0.55670626,1360.667,-113.55837)">
+				<desc  id="desc7314">Bresser-Mooca</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="45.4638" cy="711.44" height="20" width="90.93"></v:textRect>
+				<polygon id="rect7316" class="st5" points="-122.1,742.3 -49.3,742.3 -49.3,758.3 -122.1,758.3 				"/>
+				<text id="text7318" transform="matrix(0.9798 0 0 0.9798 -118.8681 753.225)" class="st6 st7 st10">Bresser•Mooca<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape35-90" transform="matrix(0.84464775,0,0,0.78730154,957.53014,-289.9525)">
+				<ellipse id="ellipse7323" class="st9" cx="-116.7" cy="661.5" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape36-92" transform="matrix(0.59725615,0.55670626,-0.59725615,0.55670626,1385.8037,-113.57097)">
+				<desc  id="desc7328">Belém</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="21.4193" cy="711.44" height="20" width="42.84"></v:textRect>
+				<polygon id="rect7330" class="st5" points="-126.3,746.6 -92,746.6 -92,762.6 -126.3,762.6 				"/>
+				<text id="text7332" transform="matrix(0.9798 0 0 0.9798 -123.075 757.4363)" class="st6 st7 st10">Belém<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape38-95" transform="matrix(0.59725615,0.55670626,-0.59725615,0.55670626,1412.0047,-113.57097)">
+				<desc  id="desc7337">Tatuapé</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="26.4866" cy="711.44" height="20" width="52.98"></v:textRect>
+				<polygon id="rect7339" class="st5" points="-130.7,750.9 -88.3,750.9 -88.3,766.9 -130.7,766.9 				"/>
+				<text id="text7341" transform="matrix(0.9798 0 0 0.9798 -127.4618 761.8231)" class="st6 st7 st10">Tatuapé<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape39-98" transform="matrix(0.84464775,0,0,0.78730154,1008.2792,-289.38406)">
+				<ellipse id="ellipse7346" class="st9" cx="-128.7" cy="661.4" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape40-100" transform="matrix(0.59725615,0.55670626,-0.59725615,0.55670626,1436.5416,-113.00176)">
+				<desc  id="desc7351">Carrão</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="23.4769" cy="711.44" height="20" width="46.96"></v:textRect>
+				<polygon id="rect7353" class="st5" points="-134.9,754.9 -97.3,754.9 -97.3,770.9 -134.9,770.9 				"/>
+				<text id="text7355" transform="matrix(0.9798 0 0 0.9798 -131.6727 765.8288)" class="st6 st7 st10">Carrão<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape41-103" transform="matrix(0.84464775,0,0,0.78730154,1034.622,-289.41162)">
+				<ellipse id="ellipse7360" class="st9" cx="-135" cy="661.4" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape42-105" transform="matrix(0.59725615,0.55670626,-0.59725615,0.55670626,1462.8863,-113.03009)">
+				<desc  id="desc7365">Penha</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="22.485" cy="711.44" height="20" width="44.98"></v:textRect>
+				<polygon id="rect7367" class="st5" points="-139.3,759.4 -103.3,759.4 -103.3,775.4 -139.3,775.4 				"/>
+				<text id="text7369" transform="matrix(0.9798 0 0 0.9798 -136.0788 770.245)" class="st6 st7 st10">Penha<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape43-108" transform="matrix(0.84464775,0,0,0.78730154,1059.0188,-289.97296)">
+				<ellipse id="ellipse7374" class="st9" cx="-140.7" cy="661.5" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape44-110" transform="matrix(0.59725615,0.55670626,-0.59725615,0.55670626,1487.2796,-113.59065)">
+				<desc  id="desc7379">Vila Matilde</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="36.0877" cy="711.44" height="20" width="72.18"></v:textRect>
+				<polygon id="rect7381" class="st5" points="-143.3,763.5 -85.5,763.5 -85.5,779.5 -143.3,779.5 				"/>
+				<text id="text7383" transform="matrix(0.9798 0 0 0.9798 -140.0618 774.4303)" class="st6 st7 st10">Vila Matilde<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape45-113" transform="matrix(0.84464775,0,0,0.78730154,1084.8962,-289.97296)">
+				<ellipse id="ellipse7388" class="st9" cx="-146.9" cy="661.5" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape46-115" transform="matrix(0.59725615,0.55670626,-0.59725615,0.55670626,1513.1597,-113.59065)">
+				<desc  id="desc7393">Guilhermina-Esperança</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="68.6604" cy="711.44" height="20" width="137.33"></v:textRect>
+				<polygon id="rect7395" class="st5" points="-147.6,767.9 -37.7,767.9 -37.7,783.9 -147.6,783.9 				"/>
+				<text id="text7397" transform="matrix(0.9798 0 0 0.9798 -144.3943 778.7628)" class="st6 st7 st10">Guilhermina•Esperança<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape47-118" transform="matrix(0.84464775,0,0,0.78730154,1110.9587,-289.97296)">
+				<ellipse id="ellipse7402" class="st9" cx="-153" cy="661.5" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape48-120" transform="matrix(0.59725615,0.55670626,-0.59725615,0.55670626,1539.2256,-113.59065)">
+				<desc  id="desc7407">Patriarca</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="28.0787" cy="711.44" height="20" width="56.16"></v:textRect>
+				<polygon id="rect7409" class="st5" points="-152,772.2 -107,772.2 -107,788.2 -152,788.2 				"/>
+				<text id="text7411" transform="matrix(0.9798 0 0 0.9798 -148.7588 783.1273)" class="st6 st7 st10">Patriarca<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape49-123" transform="matrix(0.84464775,0,0,0.78730154,1138.6302,-289.97296)">
+				<ellipse id="ellipse7416" class="st9" cx="-159.6" cy="661.5" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape50-125" transform="matrix(0.59725615,0.55670626,-0.59725615,0.55670626,1566.8961,-113.59065)">
+				<desc  id="desc7421">Artur Alvim</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="34.823" cy="711.44" height="20" width="69.65"></v:textRect>
+				<polygon id="rect7423" class="st5" points="-156.6,776.9 -100.9,776.9 -100.9,792.9 -156.6,792.9 				"/>
+				<text id="text7425" transform="matrix(0.9798 0 0 0.9798 -153.3922 787.7601)" class="st6 st7 st10">Artur Alvim<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape52-128" transform="matrix(0.59725615,0.55670626,-0.59725615,0.55670626,1593.5196,-113.59065)">
+				<desc  id="desc7430">Corinthians-Itaquera</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="59.2553" cy="711.44" height="20" width="118.52"></v:textRect>
+				<polygon id="rect7432" class="st5" points="-161,781.3 -66.2,781.3 -66.2,797.3 -161,797.3 				"/>
+				<text id="text7434" transform="matrix(0.9798 0 0 0.9798 -157.8494 792.2178)" class="st6 st7 st10">Corinthians•Itaquera<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape53-131" transform="matrix(0.84464775,0,0,0.78730154,863.15516,-225.82127)">
+				<ellipse id="ellipse7439" class="st9" cx="-94.4" cy="645.2" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape54-133" transform="matrix(0.84464775,0,0,0.78730154,870.56441,-220.18026)">
+				<desc  id="desc7444">Liberdade</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="30.9803" cy="711.44" height="20" width="61.97"></v:textRect>
+				<rect id="rect7446" x="-98.4" y="630" class="st5" width="49.6" height="16"/>
+				<text id="text7448" transform="matrix(1.0161 0 0 1.0161 -95.1896 640.9244)" class="st6 st7 st8">Liberdade<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape55-136" transform="matrix(0.84464775,0,0,0.78730154,863.15516,-206.78984)">
+				<ellipse id="ellipse7453" class="st9" cx="-94.4" cy="640.4" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape56-138" transform="matrix(0.84464775,0,0,0.78730154,870.56441,-201.14882)">
+				<desc  id="desc7458">São Joaquim</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="40.1929" cy="711.44" height="20" width="80.39"></v:textRect>
+				<rect id="rect7460" x="-98.4" y="625.2" class="st5" width="64.3" height="16"/>
+				<text id="text7462" transform="matrix(1.0161 0 0 1.0161 -95.1896 636.0897)" class="st6 st7 st8">São Joaquim<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape57-141" transform="matrix(0.84464775,0,0,0.78730154,863.15516,-184.47299)">
+				<ellipse id="ellipse7467" class="st9" cx="-94.4" cy="634.7" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape58-143" transform="matrix(0.84464775,0,0,0.78730154,870.56441,-178.83118)">
+				<desc  id="desc7472">Vergueiro</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="30.9803" cy="711.44" height="20" width="61.97"></v:textRect>
+				<rect id="rect7474" x="-98.4" y="619.5" class="st5" width="49.6" height="16"/>
+				<text id="text7476" transform="matrix(1.0161 0 0 1.0161 -95.1896 630.42)" class="st6 st7 st8">Vergueiro<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape59-146" transform="matrix(0.84464775,0,0,0.78730154,871.64808,-156.51434)">
+				<desc  id="desc7481">Paraíso</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="25.378" cy="711.44" height="20" width="50.76"></v:textRect>
+				<rect id="rect7483" x="-98.6" y="613.9" class="st5" width="40.6" height="16"/>
+				<text id="text7485" transform="matrix(1.0161 0 0 1.0161 -95.4459 624.7509)" class="st6 st7 st8">Paraíso<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape60-149" transform="matrix(0.84464775,0,0,0.78730154,871.64808,-134.19669)">
+				<desc  id="desc7490">Ana Rosa</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="31.0472" cy="711.44" height="20" width="62.1"></v:textRect>
+				<rect id="rect7492" x="-98.6" y="608.2" class="st5" width="49.7" height="16"/>
+				<text id="text7494" transform="matrix(1.0161 0 0 1.0161 -95.4459 619.0817)" class="st6 st7 st8">Ana Rosa<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="group67-152" transform="matrix(0.84464775,0,0,0.78730154,852.81244,-162.21754)">
+				<g id="group64-153" transform="matrix(-1,0,0,-1,14.3383,1434.38)">
+					<v:userDefs>
+						<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+					</v:userDefs>
+					<g id="shape65-154">
+						<path id="path7505" inkscape:connector-curvature="0" class="st11" d="M105.8,804.4h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2C108.5,804.4,105.8,804.4,105.8,804.4z"/>
+						<path id="path7507" inkscape:connector-curvature="0" class="st5" d="M105.8,804.4h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2"/>
+					</g>
+					<g id="shape66-157" transform="translate(0,-1.27559)">
+						<path id="path7512" inkscape:connector-curvature="0" class="st9" d="M106.4,806.7h-7.2c-0.6-1.2-2-1.7-3.2-1.1
+							c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4h7.2c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+							c0-1.3-1.1-2.4-2.4-2.4C107.6,805.4,106.8,805.9,106.4,806.7z"/>
+					</g>
+				</g>
+				<g id="group61-159">
+					<v:userDefs>
+						<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+					</v:userDefs>
+					<g id="shape62-160">
+						<path id="path7520" inkscape:connector-curvature="0" class="st11" d="M-85.4,625.9h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2C-82.7,625.9-85.4,625.9-85.4,625.9z"/>
+						<path id="path7522" inkscape:connector-curvature="0" class="st5" d="M-85.4,625.9h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2"/>
+					</g>
+					<g id="shape63-163" transform="translate(0,-1.27559)">
+						<path id="path7527" inkscape:connector-curvature="0" class="st9" d="M-84.9,628.2H-92c-0.6-1.2-2-1.7-3.2-1.1
+							c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4h7.2c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+							c0-1.3-1.1-2.4-2.4-2.4C-83.6,626.8-84.5,627.4-84.9,628.2z"/>
+					</g>
+				</g>
+			</g>
+			<g id="group68-165" transform="matrix(0.84464775,0,0,0.78730154,852.78119,-139.08899)">
+				<g id="group69-166" transform="matrix(-1,0,0,-1,14.3383,1434.38)">
+					<v:userDefs>
+						<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+					</v:userDefs>
+					<g id="shape70-167">
+						<path id="path7538" inkscape:connector-curvature="0" class="st11" d="M105.8,810.3h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2C108.5,810.3,105.8,810.3,105.8,810.3z"/>
+						<path id="path7540" inkscape:connector-curvature="0" class="st5" d="M105.8,810.3h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2"/>
+					</g>
+					<g id="shape71-170" transform="translate(0,-1.27559)">
+						<path id="path7545" inkscape:connector-curvature="0" class="st9" d="M106.4,812.6h-7.2c-0.6-1.2-2-1.7-3.2-1.1
+							c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4h7.2c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+							c0-1.3-1.1-2.4-2.4-2.4C107.6,811.2,106.8,811.8,106.4,812.6z"/>
+					</g>
+				</g>
+				<g id="group72-172">
+					<v:userDefs>
+						<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+					</v:userDefs>
+					<g id="shape73-173">
+						<path id="path7553" inkscape:connector-curvature="0" class="st11" d="M-85.4,620h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2C-82.7,620-85.4,620-85.4,620z"/>
+						<path id="path7555" inkscape:connector-curvature="0" class="st5" d="M-85.4,620h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2"/>
+					</g>
+					<g id="shape74-176" transform="translate(0,-1.27559)">
+						<path id="path7560" inkscape:connector-curvature="0" class="st9" d="M-84.9,622.3H-92c-0.6-1.2-2-1.7-3.2-1.1
+							c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4h7.2c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+							c0-1.3-1.1-2.4-2.4-2.4C-83.6,621-84.5,621.5-84.9,622.3z"/>
+					</g>
+				</g>
+			</g>
+			<g id="g11148" transform="matrix(0.84464775,0,0,0.78730154,119.14065,91.559915)">
+				<path id="path7568" inkscape:connector-curvature="0" class="st11" d="M782.5,195c0-1.9,1.6-3.5,3.5-3.5c1.9,0,3.5,1.6,3.5,3.5
+					c0,0,0,0,0,0c0,1.9-1.6,3.5-3.5,3.5C784.1,198.5,782.5,197,782.5,195z"/>
+				<path id="path7573" inkscape:connector-curvature="0" class="st9" d="M783.6,195c0-1.4,1.1-2.4,2.5-2.4c1.3,0,2.4,1.1,2.4,2.4
+					c0,1.4-1.1,2.5-2.4,2.5C784.7,197.6,783.6,196.5,783.6,195C783.6,195.1,783.6,195.1,783.6,195z"/>
+			</g>
+			<g id="shape79-185" transform="matrix(-0.84464775,0,0,-0.78730154,914.51903,1024.5246)">
+				<v:custProps>
+					<v:cp  v:langID="1046" v:lbl="Largura de Metrô" v:nameU="MetroThickness" v:type="2" v:val="VT0(0.0625):24"></v:cp>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud  v:nameU="Thickness" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="ScaleFactor" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+				</v:userDefs>
+				<path id="path7583" inkscape:connector-curvature="0" class="st2" d="M108.8,824.5h34c2,0,3.6-1.6,3.6-3.6s-1.6-3.6-3.6-3.6h-34
+					c-2,0-3.6,1.6-3.6,3.6S106.8,824.5,108.8,824.5z"/>
+			</g>
+			<g id="shape80-187" transform="matrix(-0.59725615,0.55670626,-0.59725615,-0.55670626,1426.5158,781.08778)">
+				<v:custProps>
+					<v:cp  v:langID="1046" v:lbl="Largura de Metrô" v:nameU="MetroThickness" v:type="2" v:val="VT0(0.0625):24"></v:cp>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud  v:nameU="Thickness" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="ScaleFactor" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+				</v:userDefs>
+				<path id="path7588" inkscape:connector-curvature="0" class="st2" d="M31.5,870.9l112.2,0c2,0,3.6-1.6,3.6-3.6s-1.6-3.6-3.6-3.6
+					l-112.2,0c-2,0-3.6,1.6-3.6,3.6C27.9,869.3,29.5,870.9,31.5,870.9z"/>
+			</g>
+			<g id="shape81-189" transform="matrix(0.84464775,0,0,0.78730154,806.74958,-168.71751)">
+				<v:custProps>
+					<v:cp  v:langID="1046" v:lbl="Largura de Metrô" v:nameU="MetroThickness" v:type="2" v:val="VT0(0.0625):24"></v:cp>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud  v:nameU="Thickness" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="ScaleFactor" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+				</v:userDefs>
+				<path id="path7593" inkscape:connector-curvature="0" class="st2" d="M-83.3,633h43.4c2,0,3.6-1.6,3.6-3.6c0-2-1.6-3.6-3.6-3.6
+					h-43.4c-2,0-3.6,1.6-3.6,3.6C-86.9,631.4-85.3,633-83.3,633z"/>
+			</g>
+			<g id="shape82-191" transform="matrix(0.59725615,0.55670626,-0.59725615,0.55670626,1197.0992,-38.671828)">
+				<v:custProps>
+					<v:cp  v:langID="1046" v:lbl="Largura de Metrô" v:nameU="MetroThickness" v:type="2" v:val="VT0(0.0625):24"></v:cp>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud  v:nameU="Thickness" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="ScaleFactor" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+				</v:userDefs>
+				<path id="path7598" inkscape:connector-curvature="0" class="st2" d="M-108.1,717.5h50.7c2,0,3.6-1.6,3.6-3.6
+					c0-2-1.6-3.6-3.6-3.6h-50.7c-2,0-3.6,1.6-3.6,3.6C-111.7,715.9-110.1,717.5-108.1,717.5z"/>
+			</g>
+			<g id="shape83-193" transform="matrix(0.84464775,0,0,0.78730154,863.15516,-95.204016)">
+				<ellipse id="ellipse7603" class="st9" cx="-94.4" cy="612" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape84-195" transform="matrix(0.84464775,0,0,0.78730154,798.39686,-89.562213)">
+				<desc  id="desc7608">Vila Mariana</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="37.4252" cy="711.44" height="20" width="74.86"></v:textRect>
+				<rect id="rect7610" x="-81.3" y="596.9" class="st5" width="59.9" height="16"/>
+				<text id="text7612" transform="matrix(1.0161 0 0 1.0161 -77.9816 607.7435)" class="st6 st7 st8">Vila Mariana<v:paragraph  v:horizAlign="2"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape103-214" transform="matrix(0.84464775,0,0,0.78730154,870.67759,-71.585756)">
+				<desc  id="desc7658">Santa Cruz</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="34.4567" cy="711.44" height="20" width="68.92"></v:textRect>
+				<rect id="rect7660" x="-98.4" y="592.3" class="st5" width="55.1" height="16"/>
+				<text id="text7662" transform="matrix(1.0161 0 0 1.0161 -95.2163 603.176)" class="st6 st7 st8">Santa Cruz<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape105-221" transform="matrix(0.84464775,0,0,0.78730154,863.26833,-57.388347)">
+				<ellipse id="ellipse7678" class="st9" cx="-94.4" cy="602.4" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape106-223" transform="matrix(0.84464775,0,0,0.78730154,870.67759,-51.747332)">
+				<desc  id="desc7683">Praça da Árvore</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="50.7559" cy="711.44" height="20" width="101.52"></v:textRect>
+				<rect id="rect7685" x="-98.4" y="587.3" class="st5" width="81.2" height="16"/>
+				<text id="text7687" transform="matrix(1.0161 0 0 1.0161 -95.2163 598.1369)" class="st6 st7 st8">Praça da Árvore<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape107-226" transform="matrix(0.84464775,0,0,0.78730154,863.26833,-33.831498)">
+				<ellipse id="ellipse7692" class="st9" cx="-94.4" cy="596.4" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape108-228" transform="matrix(0.84464775,0,0,0.78730154,870.67759,-28.190482)">
+				<desc  id="desc7697">Saúde</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="21.7008" cy="711.44" height="20" width="43.41"></v:textRect>
+				<rect id="rect7699" x="-98.4" y="581.3" class="st5" width="34.7" height="16"/>
+				<text id="text7701" transform="matrix(1.0161 0 0 1.0161 -95.2163 592.1525)" class="st6 st7 st8">Saúde<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape109-231" transform="matrix(0.84464775,0,0,0.78730154,863.26833,-11.638334)">
+				<ellipse id="ellipse7706" class="st9" cx="-94.4" cy="590.8" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape110-233" transform="matrix(0.84464775,0,0,0.78730154,870.67759,-5.9970028)">
+				<desc  id="desc7711">São Judas</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="33.0394" cy="711.44" height="20" width="66.08"></v:textRect>
+				<rect id="rect7713" x="-98.4" y="575.6" class="st5" width="52.9" height="16"/>
+				<text id="text7715" transform="matrix(1.0161 0 0 1.0161 -95.2163 586.5145)" class="st6 st7 st8">São Judas<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape111-236" transform="matrix(0.84464775,0,0,0.78730154,863.26833,10.802831)">
+				<ellipse id="ellipse7720" class="st9" cx="-94.4" cy="585.1" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape112-238" transform="matrix(0.84464775,0,0,0.78730154,870.67759,16.444162)">
+				<desc  id="desc7725">Conceição</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="33.0394" cy="711.44" height="20" width="66.08"></v:textRect>
+				<rect id="rect7727" x="-98.4" y="569.9" class="st5" width="52.9" height="16"/>
+				<text id="text7729" transform="matrix(1.0161 0 0 1.0161 -95.2163 580.814)" class="st6 st7 st8">Conceição<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape114-241" transform="matrix(0.84464775,0,0,0.78730154,870.67759,42.046973)">
+				<desc  id="desc7734">Jabaquara</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="33.0394" cy="711.44" height="20" width="66.08"></v:textRect>
+				<rect id="rect7736" x="-98.4" y="563.4" class="st5" width="52.9" height="16"/>
+				<text id="text7738" transform="matrix(1.0161 0 0 1.0161 -95.2163 574.3098)" class="st6 st7 st8">Jabaquara<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape125-244" transform="matrix(0.84464775,0,0,0.78730154,850.30806,-272.34214)">
+				<ellipse id="ellipse7743" class="st9" cx="-91.3" cy="657" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape126-246" transform="matrix(0.5429291,-0.60310796,0.6470377,0.50606767,350.95823,-12.539558)">
+				<desc  id="desc7748">Anhangabaú</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="40.3287" cy="711.44" height="20" width="80.66"></v:textRect>
+				<polygon id="rect7750" class="st5" points="3.5,590.4 68,590.4 68,606.4 3.5,606.4 				"/>
+				<text id="text7752" transform="matrix(0.9739 0 0 0.9739 10.3463 601.2888)" class="st6 st7 st12">Anhangabaú<v:paragraph  v:horizAlign="2"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape128-249" transform="matrix(0.5429291,-0.60310796,0.6470377,0.50606767,334.56362,-15.145368)">
+				<desc  id="desc7757">República</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="40.3287" cy="711.44" height="20" width="80.66"></v:textRect>
+				<polygon id="rect7759" class="st5" points="5.5,593.8 70,593.8 70,609.8 5.5,609.8 				"/>
+				<text id="text7761" transform="matrix(0.9739 0 0 0.9739 24.0945 604.6886)" class="st6 st7 st12">República<v:paragraph  v:horizAlign="2"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape129-252" transform="matrix(0.84464775,0,0,0.78730154,804.38541,-272.34214)">
+				<ellipse id="ellipse7766" class="st9" cx="-80.5" cy="657" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape130-254" transform="matrix(0.81586707,-0.20376863,0.21861093,0.76047489,590.87282,-221.34311)">
+				<desc  id="desc7771">Santa Cecília</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="40.3287" cy="711.44" height="20" width="80.66"></v:textRect>
+				<polygon id="rect7773" class="st5" points="-49,619.7 15.6,619.7 15.6,635.7 -49,635.7 				"/>
+				<text id="text7775" transform="matrix(1.011 0 0 1.011 -44.7499 630.5377)" class="st6 st7 st13">Santa Cecília<v:paragraph  v:horizAlign="2"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape131-257" transform="matrix(0.84464775,0,0,0.78730154,774.09211,-272.34214)">
+				<ellipse id="ellipse7780" class="st9" cx="-73.3" cy="657" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape132-259" transform="matrix(0.81586707,-0.20376863,0.21861093,0.76047489,558.92232,-223.77508)">
+				<desc  id="desc7785">Mal. Deodoro</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="40.3287" cy="711.44" height="20" width="80.66"></v:textRect>
+				<polygon id="rect7787" class="st5" points="-41.8,622.2 22.7,622.2 22.7,638.2 -41.8,638.2 				"/>
+				<text id="text7789" transform="matrix(1.011 0 0 1.011 -38.13 633.0928)" class="st6 st7 st13">Mal. Deodoro<v:paragraph  v:horizAlign="2"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape134-262" transform="matrix(0.81586707,-0.20376863,0.21861093,0.76047489,526.97158,-235.13426)">
+				<desc  id="desc7794">Palmeiras-Barra Funda</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="38.8943" cy="711.44" height="20" width="77.79"></v:textRect>
+				<polygon id="rect7796" class="st5" points="-35.3,627 27,627 27,643 -35.3,643 				"/>
+				<text id="text7798" transform="matrix(1.011 0 0 1.011 -22.113 632.0781)" class="st7 st13">Palmeiras•</text>
+				<text transform="matrix(1.0097 -2.620529e-02 2.620573e-02 1.0097 -30.9732 641.5053)" class="st7 st14">Barra Funda</text>
+			</g>
+			<g id="shape139-266" transform="matrix(0.84464775,0,0,0.78730154,814.31339,-309.72322)">
+				<desc  id="desc7805">7</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="9.2126" cy="712.227" height="18.4252" width="18.43"></v:textRect>
+				<ellipse id="ellipse7807" class="st15" cx="-77.7" cy="661.4" rx="7.8" ry="7.3"/>
+				<text id="text7809" transform="matrix(1.0161 0 0 1.0161 -79.7022 663.5828)" class="st16 st17 st18">7<v:paragraph  v:horizAlign="1"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape141-272" transform="matrix(0.84464775,0,0,0.78730154,831.15313,-309.72322)">
+				<desc  id="desc7823">11</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="9.2126" cy="712.227" height="18.4252" width="18.43"></v:textRect>
+				<ellipse id="ellipse7825" class="st19" cx="-81.7" cy="661.4" rx="7.8" ry="7.3"/>
+				<text id="text7827" transform="matrix(1.0161 0 0 1.0161 -85.6892 663.5828)" class="st16 st17 st18">11<v:paragraph  v:horizAlign="1"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape123-275" transform="matrix(0.84464775,0,0,0.78730154,1175.331,-285.73177)">
+				<desc  id="desc7832">3</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="9.2126" cy="712.227" height="18.4252" width="18.43"></v:textRect>
+				<ellipse id="ellipse7834" class="st3" cx="-163.2" cy="655.3" rx="7.8" ry="7.3"/>
+				<text id="text7836" transform="matrix(1.0161 0 0 1.0161 -165.1855 657.488)" class="st16 st17 st18">3<v:paragraph  v:horizAlign="1"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape122-278" transform="matrix(0.84464775,0,0,0.78730154,857.49095,-491.05056)">
+				<desc  id="desc7841">1</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="9.2126" cy="712.227" height="18.4252" width="18.43"></v:textRect>
+				<ellipse id="ellipse7843" class="st4" cx="-87.9" cy="707.5" rx="7.8" ry="7.3"/>
+				<text id="text7845" transform="matrix(1.0161 0 0 1.0161 -89.9258 709.6459)" class="st16 st17 st18">1<v:paragraph  v:horizAlign="1"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape119-281" transform="matrix(0.84464775,0,0,0.78730154,834.31381,-169.68274)">
+				<ellipse id="ellipse7850" class="st9" cx="-87.5" cy="630.9" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape120-283" transform="matrix(0.5429291,-0.60310796,0.6470377,0.50606767,334.56362,87.887919)">
+				<desc  id="desc7855">Brigadeiro</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="40.3287" cy="711.44" height="20" width="80.66"></v:textRect>
+				<polygon id="rect7857" class="st5" points="25.5,577 90,577 90,593 25.5,593 				"/>
+				<text id="text7859" transform="matrix(0.9739 0 0 0.9739 43.0806 587.8648)" class="st6 st7 st12">Brigadeiro<v:paragraph  v:horizAlign="2"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape121-286" transform="matrix(0.84464775,0,0,0.78730154,803.55428,-170.79834)">
+				<ellipse id="ellipse7864" class="st9" cx="-80.3" cy="631.2" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape124-288" transform="matrix(0.5429291,-0.60310796,0.6470377,0.50606767,300.32328,90.638278)">
+				<desc  id="desc7869">Trianon-Masp</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="43.534" cy="711.44" height="20" width="87.07"></v:textRect>
+				<polygon id="rect7871" class="st5" points="31.3,582.7 100.9,582.7 100.9,598.7 31.3,598.7 				"/>
+				<text id="text7873" transform="matrix(0.9739 0 0 0.9739 38.4912 593.6259)" class="st6 st7 st12">Trianon•Masp<v:paragraph  v:horizAlign="2"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape146-291" transform="matrix(0.84464775,0,0,0.78730154,791.98851,-183.07316)">
+				<desc  id="desc7878">Consolação</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="43.534" cy="711.44" height="20" width="87.07"></v:textRect>
+				<rect id="rect7880" x="-79.8" y="620.6" class="st5" width="69.7" height="16"/>
+				<text id="text7882" transform="matrix(1.0161 0 0 1.0161 -76.5834 631.4979)" class="st6 st7 st8">Consolação<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape148-294" transform="matrix(0.84464775,0,0,0.78730154,684.70389,-203.99492)">
+				<v:custProps>
+					<v:cp  v:langID="1046" v:lbl="Largura de Metrô" v:nameU="MetroThickness" v:type="2" v:val="VT0(0.0625):24"></v:cp>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud  v:nameU="Thickness" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="ScaleFactor" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+				</v:userDefs>
+				<path id="path7887" inkscape:connector-curvature="0" class="st2" d="M-54.4,641.9h79.8c2,0,3.6-1.6,3.6-3.6s-1.6-3.6-3.6-3.6
+					h-79.8c-2,0-3.6,1.6-3.6,3.6S-56.4,641.9-54.4,641.9z"/>
+			</g>
+			<g id="shape149-296" transform="matrix(0.84464775,0,0,0.78730154,766.62036,-205.39001)">
+				<ellipse id="ellipse7892" class="st9" cx="-71.5" cy="640" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape150-298" transform="matrix(0.5429291,-0.60310796,0.6470377,0.50606767,262.36988,56.643826)">
+				<desc  id="desc7897">Clínicas</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="43.534" cy="711.44" height="20" width="87.07"></v:textRect>
+				<polygon id="rect7899" class="st5" points="30.4,595.2 100.1,595.2 100.1,611.2 30.4,611.2 				"/>
+				<text id="text7901" transform="matrix(0.9739 0 0 0.9739 62.7326 606.0615)" class="st6 st7 st12">Clínicas<v:paragraph  v:horizAlign="2"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape151-301" transform="matrix(0.84464775,0,0,0.78730154,716.22784,-205.39001)">
+				<ellipse id="ellipse7906" class="st9" cx="-59.6" cy="640" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape152-303" transform="matrix(0.84464775,0,0,0.78730154,700.32481,-185.9792)">
+				<desc  id="desc7911">Santuário N. Sra. de Fátima</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="28.3465" cy="704.432" height="34.0157" width="56.7"></v:textRect>
+				<rect id="rect7913" x="-58.1" y="610.1" class="st5" width="45.4" height="27.2"/>
+				<text id="text7915" transform="matrix(1.0161 0 0 1.0161 -54.8793 622.548)" class="st6 st7 st20">Santuário<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape153-307" transform="matrix(0.84464775,0,0,0.78730154,698.98568,-183.54049)">
+				<desc  id="desc7922">Sumaré</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="43.534" cy="711.44" height="20" width="87.07"></v:textRect>
+				<rect id="rect7924" x="-57.8" y="620.7" class="st5" width="69.7" height="16"/>
+				<text id="text7926" transform="matrix(1.0161 0 0 1.0161 -54.5623 631.6167)" class="st6 st7 st8">Sumaré<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape154-310" transform="matrix(0.84464775,0,0,0.78730154,681.99003,-205.1672)">
+				<ellipse id="ellipse7931" class="st9" cx="-51.5" cy="640" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape155-312" transform="matrix(0.59725615,-0.55670626,0.59725615,0.55670626,247.70764,-41.586418)">
+				<desc  id="desc7936">Vila Madalena</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="43.534" cy="711.44" height="20" width="87.07"></v:textRect>
+				<polygon id="rect7938" class="st5" points="18.1,612.5 87.7,612.5 87.7,628.5 18.1,628.5 				"/>
+				<text transform="matrix(0.9798 0 0 0.9798 19.0176 619.883)" class="st7 st10">Vila</text>
+				<v:paragraph></v:paragraph>
+				<v:tabList></v:tabList>
+			</g>
+			<g id="shape156-316" transform="matrix(0.59214034,0,0,0.78730154,638.89352,-166.13988)">
+				<v:custProps>
+					<v:cp  v:langID="1046" v:lbl="Largura de Metrô" v:nameU="MetroThickness" v:type="2" v:val="VT0(0.0625):24"></v:cp>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud  v:nameU="Thickness" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="ScaleFactor" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+				</v:userDefs>
+				<path id="path7947" inkscape:connector-curvature="0" class="st0" d="M-62.1,632.3h161c2,0,3.6-1.6,3.6-3.6c0-2-1.6-3.6-3.6-3.6
+					h-161c-2,0-3.6,1.6-3.6,3.6C-65.7,630.7-64.1,632.3-62.1,632.3z"/>
+			</g>
+			<g id="group158-334" transform="matrix(-0.21861093,0.76047489,-0.81586707,-0.20376863,1376.0818,512.66205)">
+				<g id="group159-335" transform="matrix(-1,0,0,-1,14.3383,1434.38)">
+					<v:userDefs>
+						<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+					</v:userDefs>
+					<g id="shape160-336">
+						<path id="path7999" inkscape:connector-curvature="0" class="st11" d="M68.5,617.6h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2C71.2,617.6,68.5,617.6,68.5,617.6z"/>
+						<path id="path8001" inkscape:connector-curvature="0" class="st5" d="M68.5,617.6h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2"/>
+					</g>
+					<g id="shape161-339" transform="translate(0,-1.27559)">
+						<path id="path8006" inkscape:connector-curvature="0" class="st9" d="M69,619.9h-7.2c-0.6-1.2-2-1.7-3.2-1.1
+							c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4H69c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+							c0-1.3-1.1-2.4-2.4-2.4C70.2,618.5,69.4,619.1,69,619.9z"/>
+					</g>
+				</g>
+				<g id="group162-341">
+					<v:userDefs>
+						<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+					</v:userDefs>
+					<g id="shape163-342">
+						<path id="path8014" inkscape:connector-curvature="0" class="st11" d="M-48.1,812.7h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8l0-2v-2C-45.4,812.7-48.1,812.7-48.1,812.7z"/>
+						<path id="path8016" inkscape:connector-curvature="0" class="st5" d="M-48.1,812.7h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8l0-2v-2"/>
+					</g>
+					<g id="shape164-345" transform="translate(0,-1.27559)">
+						<path id="path8021" inkscape:connector-curvature="0" class="st9" d="M-47.5,815h-7.2c-0.6-1.2-2-1.7-3.2-1.1
+							c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4h7.2c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+							c0-1.3-1.1-2.4-2.4-2.4C-46.3,813.7-47.1,814.2-47.5,815z"/>
+					</g>
+				</g>
+			</g>
+			<g id="shape166-347" transform="matrix(0.84464775,0,0,0.78730154,792.84498,-196.3392)">
+				<desc  id="desc8026">Paulista</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="27.9865" cy="711.44" height="20" width="55.98"></v:textRect>
+				<rect id="rect8028" x="-80" y="624" class="st5" width="44.8" height="16"/>
+				<text id="text8030" transform="matrix(1.0161 0 0 1.0161 -76.7862 634.8678)" class="st6 st7 st8">Paulista<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape169-350" transform="matrix(0.84464775,0,0,0.78730154,913.81289,-106.01682)">
+				<ellipse id="ellipse8035" class="st9" cx="-106.4" cy="614.8" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape170-352" transform="matrix(0.84464775,0,0,0.78730154,920.02444,-99.259405)">
+				<desc  id="desc8040">Santos-Imigrantes</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="52.9823" cy="711.44" height="20" width="105.97"></v:textRect>
+				<rect id="rect8042" x="-110.1" y="599.3" class="st5" width="84.8" height="16"/>
+				<text id="text8044" transform="matrix(1.0161 0 0 1.0161 -106.901 610.2068)" class="st6 st7 st8">Santos•Imigrantes<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape171-355" transform="matrix(0.84464775,0,0,0.78730154,934.10725,-126.22606)">
+				<ellipse id="ellipse8049" class="st9" cx="-111.2" cy="619.9" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape172-357" transform="matrix(0.84464775,0,0,0.78730154,940.20645,-118.22865)">
+				<desc  id="desc8054">Alto do Ipiranga</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="46.6378" cy="711.44" height="20" width="93.28"></v:textRect>
+				<rect id="rect8056" x="-114.9" y="604.1" class="st5" width="74.6" height="16"/>
+				<text id="text8058" transform="matrix(1.0161 0 0 1.0161 -111.6792 615.0251)" class="st6 st7 st8">Alto do Ipiranga<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape173-360" transform="matrix(0.84464775,0,0,0.78730154,955.76908,-146.1873)">
+				<ellipse id="ellipse8063" class="st9" cx="-116.3" cy="625" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape174-362" transform="matrix(0.84464775,0,0,0.78730154,961.98062,-138.37649)">
+				<desc  id="desc8068">Sacomã</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="30.9803" cy="711.44" height="20" width="61.97"></v:textRect>
+				<rect id="rect8070" x="-120" y="609.3" class="st5" width="49.6" height="16"/>
+				<text id="text8072" transform="matrix(1.0161 0 0 1.0161 -116.8357 620.1437)" class="st6 st7 st8">Sacomã<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="g12165" transform="matrix(2.1064971,0.00400453,-0.00149669,0.78730012,1005.8488,-182.59728)">
+				<v:custProps>
+					<v:cp  v:langID="1046" v:lbl="Largura de Metrô" v:nameU="MetroThickness" v:type="2" v:val="VT0(0.0625):24"></v:cp>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud  v:nameU="Thickness" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="ScaleFactor" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+				</v:userDefs>
+				<path id="path12169" inkscape:connector-curvature="0" sodipodi:nodetypes="cssccc" class="st21" d="M-54.6,636.8l47.3,0
+					c1.7,0,1.6-7.2,0-7.2l-47.5,0.2C-56.1,629.7-56.2,637-54.6,636.8L-54.6,636.8z"/>
+			</g>
+			<g id="shape178-367" transform="matrix(0.84464775,0,0,0.78730154,994.66068,-167.14735)">
+				<desc  id="desc8082">Vila Prudente</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="42.3189" cy="711.44" height="20" width="84.64"></v:textRect>
+				<rect id="rect8084" x="-127.8" y="616.6" class="st5" width="67.7" height="16"/>
+				<text id="text8086" transform="matrix(1.0161 0 0 1.0161 -124.5733 627.4522)" class="st6 st7 st8">Vila Prudente<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape136-370" transform="matrix(0.84464775,0,0,0.78730154,702.9939,-167.32005)">
+				<ellipse id="ellipse8091" class="st9" cx="-56.4" cy="630.3" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape137-372" transform="matrix(0.5429291,-0.60310796,0.6470377,0.50606767,210.0845,84.252208)">
+				<desc  id="desc8096">Faria Lima</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="34.0292" cy="711.44" height="20" width="68.06"></v:textRect>
+				<polygon id="rect8098" class="st5" points="43.8,600.2 98.2,600.2 98.2,616.2 43.8,616.2 				"/>
+				<text id="text8100" transform="matrix(0.9739 0 0 0.9739 49.6475 611.0374)" class="st6 st7 st12">Faria Lima<v:paragraph  v:horizAlign="2"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape180-375" transform="matrix(0.84464775,0,0,0.78730154,640.59639,-167.32005)">
+				<ellipse id="ellipse8105" class="st9" cx="-41.7" cy="630.3" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape181-377" transform="matrix(0.5429291,-0.60310796,0.6470377,0.50606767,155.43072,75.649679)">
+				<desc  id="desc8110">Butantã</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="26.8974" cy="711.44" height="20" width="53.8"></v:textRect>
+				<polygon id="rect8112" class="st5" points="50.4,611.5 93.4,611.5 93.4,627.5 50.4,627.5 				"/>
+				<text id="text8114" transform="matrix(0.9739 0 0 0.9739 57.1393 622.3554)" class="st6 st7 st12">Butantã<v:paragraph  v:horizAlign="2"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape182-380" transform="matrix(0.84464775,0,0,0.78730154,612.01181,-167.32005)">
+				<ellipse id="ellipse8119" class="st9" cx="-34.9" cy="630.3" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape184-382" transform="matrix(0.5429291,-0.60310796,0.6470377,0.50606767,157.02204,32.958127)" class="st22">
+				<desc  id="desc8124">São Paulo-Morumbi</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="37.0599" cy="711.44" height="20" width="74.12"></v:textRect>
+				<polygon id="rect8126" class="st5" points="41.8,618.2 101.1,618.2 101.1,634.2 41.8,634.2 				"/>
+				<text transform="matrix(0.9739 0 0 0.9739 45.0459 623.2768)" class="st7 st12">São Paulo-</text>
+				<v:paragraph></v:paragraph>
+				<v:tabList></v:tabList>
+			</g>
+			<g id="shape185-386" transform="matrix(0.84464775,0,0,0.78730154,586.9376,-167.45074)">
+				<ellipse id="ellipse8135" class="st9" cx="-29" cy="630.4" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape186-388" transform="matrix(0.5429291,-0.60310796,0.6470377,0.50606767,128.2905,32.958127)" class="st22">
+				<desc  id="desc8140">Vila Sônia</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="32.1554" cy="711.44" height="20" width="64.32"></v:textRect>
+				<polygon id="rect8142" class="st5" points="46.2,623.4 97.7,623.4 97.7,639.4 46.2,639.4 				"/>
+				<text id="text8144" transform="matrix(0.9739 0 0 0.9739 49.418 634.2496)" class="st6 st7 st12">Vila Sônia<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape188-391" transform="matrix(0.84464775,0,0,0.78730154,841.00063,-77.251075)">
+				<ellipse id="ellipse8149" class="st9" cx="-89.1" cy="607.5" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape190-396" transform="matrix(0.84464775,0,0,0.78730154,816.72233,-77.52476)">
+				<ellipse id="ellipse8163" class="st9" cx="-83.4" cy="607.5" rx="2.4" ry="2.2"/>
+			</g>
+			<polygon id="rect8170" class="st5" points="698.5,446.5 762.9,375 773.2,383.1 708.8,454.6 			"/>
+			<text transform="matrix(0.5288 -0.5874 0.6302 0.4929 709.9401 447.082)" class="st7 st23">AACD-Servidor</text>
+			<v:paragraph  v:horizAlign="2"></v:paragraph>
+			<v:tabList></v:tabList>
+			<g id="shape192-401" transform="matrix(0.84464775,0,0,0.78730154,789.04153,-77.343966)">
+				<ellipse id="ellipse8177" class="st9" cx="-76.8" cy="607.5" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape193-403" transform="matrix(0.5429291,-0.60310796,0.6470377,0.50606767,306.10732,160.78119)">
+				<desc  id="desc8182">Moema</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="24.3578" cy="711.44" height="20" width="48.72"></v:textRect>
+				<polygon id="rect8184" class="st5" points="44,570.2 83,570.2 83,586.2 44,586.2 				"/>
+				<text id="text8186" transform="matrix(0.9739 0 0 0.9739 47.7887 581.1237)" class="st6 st7 st12">Moema<v:paragraph  v:horizAlign="2"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape194-406" transform="matrix(0.84464775,0,0,0.78730154,766.44298,-77.343966)">
+				<ellipse id="ellipse8191" class="st9" cx="-71.5" cy="607.5" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape195-408" transform="matrix(0.5429291,-0.60310796,0.6470377,0.50606767,272.38193,173.31844)">
+				<desc  id="desc8196">Ibirapuera</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="32.7338" cy="711.44" height="20" width="65.47"></v:textRect>
+				<polygon id="rect8198" class="st5" points="51.6,574.3 104,574.3 104,590.3 51.6,590.3 				"/>
+				<text transform="matrix(0.9739 0 0 0.9739 57.5458 585.1941)" class="st7 st23">Eucaliptos</text>
+				<v:paragraph  v:horizAlign="2"></v:paragraph>
+				<v:tabList></v:tabList>
+			</g>
+			<g id="shape197-413" transform="matrix(0.5429291,-0.60310796,0.6470377,0.50606767,282.22379,124.86281)" class="st22">
+				<desc  id="desc8210">Água Espraiada</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="31.5923" cy="711.44" height="20" width="63.19"></v:textRect>
+				<polygon id="rect8212" class="st5" points="40.7,580.4 91.2,580.4 91.2,596.4 40.7,596.4 				"/>
+				<g id="g9424">
+					<g id="shape196-411" transform="matrix(0.64278762,0.76604445,-0.76604445,0.64278762,548.7335,254.39041)" class="st22">
+						<ellipse id="ellipse8205" class="st9" cx="-66.3" cy="607.5" rx="2.4" ry="2.2"/>
+					</g>
+					<text transform="matrix(0.9739 0 0 0.9739 43.8737 585.5603)" class="st7 st23">Campo</text>
+					<v:paragraph></v:paragraph>
+					<v:tabList></v:tabList>
+					<v:newlineChar></v:newlineChar>
+				</g>
+				<text transform="matrix(0.9739 0 0 0.9739 47.9157 594.9998)" class="st7 st23">Belo</text>
+				<v:paragraph></v:paragraph>
+				<v:tabList></v:tabList>
+				<v:newlineChar></v:newlineChar>
+			</g>
+			<g id="g12049" transform="matrix(0.55756259,0,0,0.78730154,654.66024,-53.798543)">
+				<v:custProps>
+					<v:cp  v:langID="1046" v:lbl="Largura de Metrô" v:nameU="MetroThickness" v:type="2" v:val="VT0(0.0625):24"></v:cp>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud  v:nameU="Thickness" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="ScaleFactor" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+				</v:userDefs>
+				<path id="path12053" inkscape:connector-curvature="0" class="st1" d="M-71.6,603.8H8.6c2,0,3.6-1.6,3.6-3.6
+					c0-2-1.6-3.6-3.6-3.6h-80.2c-2,0-3.6,1.6-3.6,3.6C-75.2,602.2-73.6,603.8-71.6,603.8z"/>
+			</g>
+			<g id="shape198-417" transform="matrix(0.59725615,-0.55670626,0.59725615,0.55670626,282.04595,111.53925)">
+				<v:custProps>
+					<v:cp  v:langID="1046" v:lbl="Largura de Metrô" v:nameU="MetroThickness" v:type="2" v:val="VT0(0.0625):24"></v:cp>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud  v:nameU="Thickness" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="ScaleFactor" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+				</v:userDefs>
+				<path id="path8221" inkscape:connector-curvature="0" class="st1" d="M39.8,595.2h32.1c2,0,3.6-1.6,3.6-3.6c0-2-1.6-3.6-3.6-3.6
+					H39.8c-2,0-3.6,1.6-3.6,3.6C36.2,593.6,37.8,595.2,39.8,595.2z"/>
+			</g>
+			<g id="shape200-421" transform="matrix(0.84464775,0,0,0.78730154,658.50255,-69.444634)">
+				<desc  id="desc8231">Brooklin-Campo Belo</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="37.4252" cy="711.44" height="20" width="74.86"></v:textRect>
+				
+					<rect id="rect8233" x="-47.1" y="591.4" transform="matrix(-0.9989 4.784078e-02 -4.784078e-02 -0.9989 -7.7587 1199.6908)" class="st5" width="57.7" height="16.6"/>
+				<text id="text8235" transform="matrix(1.0161 0 0 1.0161 -26.6704 605.0012)" class="st6 st7 st8">Brooklin<v:paragraph  v:horizAlign="2"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape201-425" transform="matrix(0.55756259,0,0,0.78730154,624.25288,-53.78408)">
+				<v:custProps>
+					<v:cp  v:langID="1046" v:lbl="Largura de Metrô" v:nameU="MetroThickness" v:type="2" v:val="VT0(0.0625):24"></v:cp>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud  v:nameU="Thickness" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="ScaleFactor" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+				</v:userDefs>
+				<path id="path8242" inkscape:connector-curvature="0" class="st1" d="M-60.7,603.8h80.2c2,0,3.6-1.6,3.6-3.6s-1.6-3.6-3.6-3.6
+					h-80.2c-2,0-3.6,1.6-3.6,3.6S-62.7,603.8-60.7,603.8z"/>
+			</g>
+			<g id="shape202-427" transform="matrix(0.84464775,0,0,0.78730154,708.97339,-55.84748)">
+				<ellipse id="ellipse8247" class="st9" cx="-57.9" cy="602" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape203-429" transform="matrix(0.5429291,-0.60310796,0.6470377,0.50606767,216.31642,199.61599)">
+				<desc  id="desc8252">Borba Gato</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="36.6327" cy="711.44" height="20" width="73.27"></v:textRect>
+				<polygon id="rect8254" class="st5" points="65.3,580.2 123.9,580.2 123.9,596.2 65.3,596.2 				"/>
+				<text id="text8256" transform="matrix(0.9739 0 0 0.9739 71.5639 591.0696)" class="st6 st7 st12">Borba Gato<v:paragraph  v:horizAlign="2"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape204-432" transform="matrix(0.84464775,0,0,0.78730154,692.41371,-55.339112)">
+				<ellipse id="ellipse8261" class="st9" cx="-53.9" cy="601.9" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape205-434" transform="matrix(0.5429291,-0.60310796,0.6470377,0.50606767,183.56424,216.1618)">
+				<desc  id="desc8266">Alto da Boa Vista</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="50.4774" cy="711.44" height="20" width="100.96"></v:textRect>
+				<polygon id="rect8268" class="st5" points="73.5,583.4 154.2,583.4 154.2,599.4 73.5,599.4 				"/>
+				<text id="text8270" transform="matrix(0.9739 0 0 0.9739 77.3771 594.3086)" class="st6 st7 st12">Alto da Boa Vista<v:paragraph  v:horizAlign="2"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape207-439" transform="matrix(0.5429291,-0.60310796,0.6470377,0.50606767,168.54979,211.74616)">
+				<desc  id="desc8280">Adolfo Pinheiro</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="46.9224" cy="711.44" height="20" width="93.85"></v:textRect>
+				<polygon id="rect8282" class="st5" points="74.9,586.9 150,586.9 150,602.9 74.9,602.9 				"/>
+				<text id="text8284" transform="matrix(0.9739 0 0 0.9739 81.6509 597.7527)" class="st6 st7 st12">Adolfo Pinheiro<v:paragraph  v:horizAlign="2"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape208-442" transform="matrix(0.84464775,0,0,0.78730154,652.7365,-55.241376)">
+				<ellipse id="ellipse8289" class="st9" cx="-44.5" cy="601.9" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape209-444" transform="matrix(0.5429291,-0.60310796,0.6470377,0.50606767,158.19694,199.33435)">
+				<desc  id="desc8294">Largo Treze</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="36.6327" cy="711.44" height="20" width="73.27"></v:textRect>
+				<polygon id="rect8296" class="st5" points="74,590.8 132.7,590.8 132.7,606.8 74,606.8 				"/>
+				<text id="text8298" transform="matrix(0.9739 0 0 0.9739 77.6993 601.658)" class="st6 st7 st12">Largo Treze<v:paragraph  v:horizAlign="2"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape210-447" transform="matrix(0.59725615,0.55670626,-0.59725615,0.55670626,1042.1419,100.72652)">
+				<v:custProps>
+					<v:cp  v:langID="1046" v:lbl="Largura de Metrô" v:nameU="MetroThickness" v:type="2" v:val="VT0(0.0625):24"></v:cp>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud  v:nameU="Thickness" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="ScaleFactor" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+				</v:userDefs>
+				<path id="path8303" inkscape:connector-curvature="0" class="st1" d="M-107.2,666.5h15.5c2,0,3.6-1.6,3.6-3.6
+					c0-2-1.6-3.6-3.6-3.6h-15.5c-2,0-3.6,1.6-3.6,3.6S-109.2,666.5-107.2,666.5z"/>
+			</g>
+			<g id="shape211-449" transform="matrix(0.84464775,0,0,0.78730154,521.0946,-64.596093)">
+				<v:custProps>
+					<v:cp  v:langID="1046" v:lbl="Largura de Metrô" v:nameU="MetroThickness" v:type="2" v:val="VT0(0.0625):24"></v:cp>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud  v:nameU="Thickness" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="ScaleFactor" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+				</v:userDefs>
+				<path id="path8308" inkscape:connector-curvature="0" class="st1" d="M-15.6,606.5h87.9c2,0,3.6-1.6,3.6-3.6s-1.6-3.6-3.6-3.6
+					h-87.9c-2,0-3.6,1.6-3.6,3.6S-17.6,606.5-15.6,606.5z"/>
+			</g>
+			<g id="shape213-451" transform="matrix(0.5429291,-0.60310796,0.6470377,0.50606767,113.75749,195.12859)">
+				<desc  id="desc8313">Santo Amaro</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="39.1045" cy="711.44" height="20" width="78.21"></v:textRect>
+				<polygon id="rect8315" class="st5" points="80,599.5 142.6,599.5 142.6,615.5 80,615.5 				"/>
+				<text id="text8317" transform="matrix(0.9739 0 0 0.9739 83.3248 610.4047)" class="st6 st7 st12">Santo Amaro<v:paragraph  v:horizAlign="2"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape214-454" transform="matrix(0.84464775,0,0,0.78730154,611.47885,-32.431676)">
+				<desc  id="desc8322">9</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="9.2126" cy="712.227" height="18.4252" width="18.43"></v:textRect>
+				<ellipse id="ellipse8324" class="st24" cx="-29.7" cy="591" rx="7.8" ry="7.3"/>
+				<text id="text8326" transform="matrix(1.0161 0 0 1.0161 -31.674 593.1426)" class="st16 st17 st18">9<v:paragraph  v:horizAlign="1"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape215-457" transform="matrix(0.84464775,0,0,0.78730154,590.76554,-65.907737)">
+				<ellipse id="ellipse8331" class="st9" cx="-29.9" cy="604.6" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape216-459" transform="matrix(0.5429291,-0.60310796,0.6470377,0.50606767,79.208019,207.57267)">
+				<desc  id="desc8336">Giovanni Gronchi</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="52.305" cy="711.44" height="20" width="104.61"></v:textRect>
+				<polygon id="rect8338" class="st5" points="87.7,603.8 171.4,603.8 171.4,619.8 87.7,619.8 				"/>
+				<text id="text8340" transform="matrix(0.9739 0 0 0.9739 93.989 614.6395)" class="st6 st7 st12">Giovanni Gronchi<v:paragraph  v:horizAlign="2"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape217-462" transform="matrix(0.84464775,0,0,0.78730154,565.47426,-65.809324)">
+				<ellipse id="ellipse8345" class="st9" cx="-23.9" cy="604.6" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape218-464" transform="matrix(0.5429291,-0.60310796,0.6470377,0.50606767,53.916731,207.67109)">
+				<desc  id="desc8350">Vila das Belezas</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="52.305" cy="711.44" height="20" width="104.61"></v:textRect>
+				<polygon id="rect8352" class="st5" points="91.5,608.3 175.2,608.3 175.2,624.3 91.5,624.3 				"/>
+				<text id="text8354" transform="matrix(0.9739 0 0 0.9739 101.0491 619.2114)" class="st6 st7 st12">Vila das Belezas<v:paragraph  v:horizAlign="2"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape220-467" transform="matrix(0.5429291,-0.60310796,0.6470377,0.50606767,29.974347,207.67109)">
+				<desc  id="desc8359">Campo Limpo</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="52.305" cy="711.44" height="20" width="104.61"></v:textRect>
+				<polygon id="rect8361" class="st5" points="95.2,612.7 178.9,612.7 178.9,628.7 95.2,628.7 				"/>
+				<text id="text8363" transform="matrix(0.9739 0 0 0.9739 115.9096 623.5533)" class="st6 st7 st12">Campo Limpo<v:paragraph  v:horizAlign="2"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape222-470" transform="matrix(0.5429291,-0.60310796,0.6470377,0.50606767,8.5768851,207.57267)">
+				<desc  id="desc8368">Capão Redondo</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="52.305" cy="711.44" height="20" width="104.61"></v:textRect>
+				<polygon id="rect8370" class="st5" points="98.4,616.6 182.1,616.6 182.1,632.6 98.4,632.6 				"/>
+				<text id="text8372" transform="matrix(0.9739 0 0 0.9739 108.9789 627.4518)" class="st6 st7 st12">Capão Redondo<v:paragraph  v:horizAlign="2"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="group223-473" transform="matrix(0,-0.78730154,0.84464775,0,-83.47958,499.91642)">
+				<g id="group224-474" transform="matrix(-1,0,0,-1,14.3383,1434.38)">
+					<v:userDefs>
+						<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+					</v:userDefs>
+					<g id="shape225-475">
+						<path id="path8383" inkscape:connector-curvature="0" class="st11" d="M-102.4,731.1h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2C-99.7,731.1-102.4,731.1-102.4,731.1z"/>
+						<path id="path8385" inkscape:connector-curvature="0" class="st5" d="M-102.4,731.1h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2"/>
+					</g>
+					<g id="shape226-478" transform="translate(0,-1.27559)">
+						<path id="path8390" inkscape:connector-curvature="0" class="st9" d="M-101.8,733.4h-7.2c-0.6-1.2-2-1.7-3.2-1.1
+							c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4h7.2c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+							c0-1.3-1.1-2.4-2.4-2.4C-100.6,732-101.5,732.5-101.8,733.4z"/>
+					</g>
+				</g>
+				<g id="group227-480">
+					<v:userDefs>
+						<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+					</v:userDefs>
+					<g id="shape228-481">
+						<path id="path8398" inkscape:connector-curvature="0" class="st11" d="M122.8,699.2h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2C125.5,699.2,122.8,699.2,122.8,699.2z"/>
+						<path id="path8400" inkscape:connector-curvature="0" class="st5" d="M122.8,699.2h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2"/>
+					</g>
+					<g id="shape229-484" transform="translate(0,-1.27559)">
+						<path id="path8405" inkscape:connector-curvature="0" class="st9" d="M123.4,701.5h-7.2c-0.6-1.2-2-1.7-3.2-1.1
+							c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4h7.2c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+							c0-1.3-1.1-2.4-2.4-2.4C124.6,700.2,123.7,700.7,123.4,701.5z"/>
+					</g>
+				</g>
+			</g>
+			<g id="group113-486" transform="matrix(0,-0.78730154,0.84464775,0,260.09947,614.7853)">
+				<g id="group235-487" transform="matrix(-1,0,0,-1,14.3383,1434.38)">
+					<v:userDefs>
+						<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+					</v:userDefs>
+					<g id="shape236-488">
+						<path id="path8416" inkscape:connector-curvature="0" class="st11" d="M-131.6,812.4h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2C-128.9,812.4-131.6,812.4-131.6,812.4z"/>
+						<path id="path8418" inkscape:connector-curvature="0" class="st5" d="M-131.6,812.4h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2"/>
+					</g>
+					<g id="shape237-491" transform="translate(0,-1.27559)">
+						<path id="path8423" inkscape:connector-curvature="0" class="st9" d="M-131,814.7h-7.2c-0.6-1.2-2-1.7-3.2-1.1
+							c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4h7.2c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+							c0-1.3-1.1-2.4-2.4-2.4C-129.8,813.4-130.6,813.9-131,814.7z"/>
+					</g>
+				</g>
+				<g id="group238-493">
+					<v:userDefs>
+						<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+					</v:userDefs>
+					<g id="shape239-494">
+						<path id="path8431" inkscape:connector-curvature="0" class="st11" d="M152,617.9h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2C154.7,617.9,152,617.9,152,617.9z"/>
+						<path id="path8433" inkscape:connector-curvature="0" class="st5" d="M152,617.9h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2"/>
+					</g>
+					<g id="shape240-497" transform="translate(0,-1.27559)">
+						<path id="path8438" inkscape:connector-curvature="0" class="st9" d="M152.5,620.2h-7.2c-0.6-1.2-2-1.7-3.2-1.1
+							c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4h7.2c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+							c0-1.3-1.1-2.4-2.4-2.4C153.8,618.8,152.9,619.3,152.5,620.2z"/>
+					</g>
+				</g>
+			</g>
+			<g id="shape241-499" transform="matrix(0.84464775,0,0,0.78730154,541.68543,-84.185729)">
+				
+					<rect id="rect8443" x="-20.7" y="603" transform="matrix(-0.9986 5.276429e-02 -5.276429e-02 -0.9986 2.565908e-02 1214.3538)" class="st5" width="9.4" height="8.3"/>
+				<g>
+					<defs>
+						<rect id="SVGID_1_" x="-20.8" y="602.9" width="9.5" height="8.5"/>
+					</defs>
+					<clipPath id="SVGID_2_">
+						<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+					</clipPath>
+					<g transform="matrix(1 0 0 1 0 0)" style="clip-path:url(#SVGID_2_);enable-background:new    ;">
+						
+							<image style="overflow:visible;" width="157" height="45" id="image8448" xlink:href="B9C473AA.png"  transform="matrix(0.192 0 0 0.192 -20.5158 602.8572)">
+						</image>
+					</g>
+				</g>
+				
+					<rect id="rect8450" x="-20.7" y="603" transform="matrix(-0.9986 5.276429e-02 -5.276429e-02 -0.9986 2.565908e-02 1214.3538)" class="st5" width="9.4" height="8.3"/>
+			</g>
+			<g id="group243-503" transform="matrix(0,-0.78730154,0.84464775,0,305.59051,280.02704)">
+				<g id="group244-504" transform="matrix(-1,0,0,-1,14.3383,1434.38)">
+					<v:userDefs>
+						<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+					</v:userDefs>
+					<g id="shape245-505">
+						<path id="path8461" inkscape:connector-curvature="0" class="st11" d="M-46.6,823.2h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2C-43.8,823.2-46.6,823.2-46.6,823.2z"/>
+						<path id="path8463" inkscape:connector-curvature="0" class="st5" d="M-46.6,823.2h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2"/>
+					</g>
+					<g id="shape246-508" transform="translate(0,-1.27559)">
+						<path id="path8468" inkscape:connector-curvature="0" class="st9" d="M-46,825.5h-7.2c-0.6-1.2-2-1.7-3.2-1.1
+							c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4h7.2c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+							c0-1.3-1.1-2.4-2.4-2.4C-44.8,824.2-45.6,824.7-46,825.5z"/>
+					</g>
+				</g>
+				<g id="group247-510">
+					<v:userDefs>
+						<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+					</v:userDefs>
+					<g id="shape248-511">
+						<path id="path8476" inkscape:connector-curvature="0" class="st11" d="M66.9,607.1h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2C69.6,607.1,66.9,607.1,66.9,607.1z"/>
+						<path id="path8478" inkscape:connector-curvature="0" class="st5" d="M66.9,607.1h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2"/>
+					</g>
+					<g id="shape249-514" transform="translate(0,-1.27559)">
+						<path id="path8483" inkscape:connector-curvature="0" class="st9" d="M67.5,609.4h-7.2c-0.6-1.2-2-1.7-3.2-1.1
+							c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4h7.2c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+							c0-1.3-1.1-2.4-2.4-2.4C68.7,608.1,67.9,608.6,67.5,609.4z"/>
+					</g>
+				</g>
+			</g>
+			<g id="shape31-516" transform="matrix(0.73148641,-0.39365076,0.42232387,0.68182313,611.96452,-223.71918)">
+				<desc  id="desc8488">10</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="9.2126" cy="712.227" height="18.4252" width="18.43"></v:textRect>
+				<ellipse id="ellipse8490" class="st25" cx="-59.7" cy="611.6" rx="7.8" ry="7.3"/>
+				<text id="text8492" transform="matrix(0.9975 0 0 0.9975 -63.7067 613.8066)" class="st16 st17 st26">10<v:paragraph  v:horizAlign="1"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape250-519" transform="matrix(0.73148641,-0.39365076,0.42232387,0.68182313,628.03394,-232.3669)">
+				<desc  id="desc8497">11</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="9.2126" cy="712.227" height="18.4252" width="18.43"></v:textRect>
+				<ellipse id="ellipse8499" class="st19" cx="-64.1" cy="611.6" rx="7.8" ry="7.3"/>
+				<text id="text8501" transform="matrix(0.9975 0 0 0.9975 -68.1003 613.8065)" class="st16 st17 st26">11<v:paragraph  v:horizAlign="1"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape251-522" transform="matrix(0.73148641,-0.39365076,0.42232387,0.68182313,643.58559,-240.73591)">
+				<desc  id="desc8506">12</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="9.2126" cy="712.227" height="18.4252" width="18.43"></v:textRect>
+				<ellipse id="ellipse8508" class="st27" cx="-68.3" cy="611.6" rx="7.8" ry="7.3"/>
+				<text id="text8510" transform="matrix(0.9975 0 0 0.9975 -72.3525 613.8064)" class="st16 st17 st26">12<v:paragraph  v:horizAlign="1"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="group252-525" transform="matrix(0.84464775,0,0,0.78730154,852.56243,-313.62822)">
+				<g id="group253-526" transform="matrix(-1,0,0,-1,14.3383,1434.38)">
+					<v:userDefs>
+						<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+					</v:userDefs>
+					<g id="shape254-527">
+						<path id="path8521" inkscape:connector-curvature="0" class="st11" d="M105.7,766h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2C108.5,766,105.7,766,105.7,766z"/>
+						<path id="path8523" inkscape:connector-curvature="0" class="st5" d="M105.7,766h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2"/>
+					</g>
+					<g id="shape255-530" transform="translate(0,-1.27559)">
+						<path id="path8528" inkscape:connector-curvature="0" class="st9" d="M106.3,768.3h-7.2c-0.6-1.2-2-1.7-3.2-1.1
+							c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4h7.2c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+							c0-1.3-1.1-2.4-2.4-2.4C107.5,766.9,106.7,767.4,106.3,768.3z"/>
+					</g>
+				</g>
+				<g id="group256-532">
+					<v:userDefs>
+						<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+					</v:userDefs>
+					<g id="shape257-533">
+						<path id="path8536" inkscape:connector-curvature="0" class="st11" d="M-85.4,664.3h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2C-82.7,664.3-85.4,664.3-85.4,664.3z"/>
+						<path id="path8538" inkscape:connector-curvature="0" class="st5" d="M-85.4,664.3h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2"/>
+					</g>
+					<g id="shape258-536" transform="translate(0,-1.27559)">
+						<path id="path8543" inkscape:connector-curvature="0" class="st9" d="M-84.8,666.6H-92c-0.6-1.2-2-1.7-3.2-1.1
+							c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4h7.2c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+							c0-1.3-1.1-2.4-2.4-2.4C-83.6,665.3-84.4,665.8-84.8,666.6z"/>
+					</g>
+				</g>
+			</g>
+			<g id="group21-538" transform="matrix(0,-0.78730154,0.84464775,0,382.2074,275.62839)">
+				<g id="group259-539" transform="matrix(-1,0,0,-1,14.3383,1434.38)">
+					<v:userDefs>
+						<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+					</v:userDefs>
+					<g id="shape260-540">
+						<path id="path8554" inkscape:connector-curvature="0" class="st11" d="M-45.4,841.3h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2C-42.7,841.3-45.4,841.3-45.4,841.3z"/>
+						<path id="path8556" inkscape:connector-curvature="0" class="st5" d="M-45.4,841.3h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2"/>
+					</g>
+					<g id="shape261-543" transform="translate(0,-1.27559)">
+						<path id="path8561" inkscape:connector-curvature="0" class="st9" d="M-44.9,843.6H-52c-0.6-1.2-2-1.7-3.2-1.1
+							c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4h7.2c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+							c0-1.3-1.1-2.4-2.4-2.4C-43.7,842.3-44.5,842.8-44.9,843.6z"/>
+					</g>
+				</g>
+				<g id="group262-545">
+					<v:userDefs>
+						<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+					</v:userDefs>
+					<g id="shape263-546">
+						<path id="path8569" inkscape:connector-curvature="0" class="st11" d="M65.8,589h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2C68.5,589,65.8,589,65.8,589z"/>
+						<path id="path8571" inkscape:connector-curvature="0" class="st5" d="M65.8,589h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2"/>
+					</g>
+					<g id="shape264-549" transform="translate(0,-1.27559)">
+						<path id="path8576" inkscape:connector-curvature="0" class="st9" d="M66.4,591.3h-7.2c-0.6-1.2-2-1.7-3.2-1.1
+							c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4h7.2c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+							c0-1.3-1.1-2.4-2.4-2.4C67.6,589.9,66.8,590.4,66.4,591.3z"/>
+					</g>
+				</g>
+			</g>
+			<g id="shape37-551" transform="matrix(0.84464775,0,0,0.78730154,985.5843,-301.3542)">
+				<ellipse id="ellipse8581" class="st11" cx="-123.4" cy="664.4" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape265-553" transform="matrix(0.73148641,-0.39365076,0.42232387,0.68182313,691.82173,-225.67169)">
+				<desc  id="desc8586">11</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="9.2126" cy="712.227" height="18.4252" width="18.43"></v:textRect>
+				<ellipse id="ellipse8588" class="st19" cx="-76.3" cy="602.6" rx="7.8" ry="7.3"/>
+				<text id="text8590" transform="matrix(0.9975 0 0 0.9975 -80.3304 604.782)" class="st16 st17 st26">11<v:paragraph  v:horizAlign="1"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape266-556" transform="matrix(0.73148641,-0.39365076,0.42232387,0.68182313,707.37339,-234.04071)">
+				<desc  id="desc8595">12</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="9.2126" cy="712.227" height="18.4252" width="18.43"></v:textRect>
+				<ellipse id="ellipse8597" class="st27" cx="-80.6" cy="602.6" rx="7.8" ry="7.3"/>
+				<text id="text8599" transform="matrix(0.9975 0 0 0.9975 -84.5823 604.7819)" class="st16 st17 st26">12<v:paragraph  v:horizAlign="1"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="group267-559" transform="matrix(0,-0.78730154,0.84464775,0,561.77808,275.34969)">
+				<g id="group268-560" transform="matrix(-1,0,0,-1,14.3383,1434.38)">
+					<v:userDefs>
+						<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+					</v:userDefs>
+					<g id="shape269-561">
+						<path id="path8610" inkscape:connector-curvature="0" class="st11" d="M-45.4,883.9h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2C-42.6,883.9-45.4,883.9-45.4,883.9z"/>
+						<path id="path8612" inkscape:connector-curvature="0" class="st5" d="M-45.4,883.9h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2"/>
+					</g>
+					<g id="shape270-564" transform="translate(0,-1.27559)">
+						<path id="path8617" inkscape:connector-curvature="0" class="st9" d="M-44.8,886.2H-52c-0.6-1.2-2-1.7-3.2-1.1
+							c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4h7.2c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+							c0-1.3-1.1-2.4-2.4-2.4C-43.6,884.8-44.4,885.3-44.8,886.2z"/>
+					</g>
+				</g>
+				<g id="group271-566">
+					<v:userDefs>
+						<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+					</v:userDefs>
+					<g id="shape272-567">
+						<path id="path8625" inkscape:connector-curvature="0" class="st11" d="M65.7,546.4h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2C68.5,546.4,65.7,546.4,65.7,546.4z"/>
+						<path id="path8627" inkscape:connector-curvature="0" class="st5" d="M65.7,546.4h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2"/>
+					</g>
+					<g id="shape273-570" transform="translate(0,-1.27559)">
+						<path id="path8632" inkscape:connector-curvature="0" class="st9" d="M66.3,548.7h-7.2c-0.6-1.2-2-1.7-3.2-1.1
+							c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4h7.2c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+							c0-1.3-1.1-2.4-2.4-2.4C67.5,547.4,66.7,547.9,66.3,548.7z"/>
+					</g>
+				</g>
+			</g>
+			<g id="shape275-574" transform="matrix(0.84464775,0,0,0.78730154,1159.7684,-309.72322)">
+				<desc  id="desc8642">11</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="9.2126" cy="712.227" height="18.4252" width="18.43"></v:textRect>
+				<ellipse id="ellipse8644" class="st19" cx="-159.5" cy="661.4" rx="7.8" ry="7.3"/>
+				<text id="text8646" transform="matrix(1.0161 0 0 1.0161 -163.5002 663.5828)" class="st16 st17 st18">11<v:paragraph  v:horizAlign="1"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="group279-577" transform="matrix(0.84464775,0,0,0.78730154,675.30633,-94.457445)">
+				<g id="shape117-578" transform="translate(72.0325,-92.57436)">
+					<ellipse id="ellipse8654" class="st9" cx="-64.3" cy="630.4" rx="2.4" ry="2.2"/>
+				</g>
+				<g id="shape135-580" transform="matrix(0.64278761,-0.76604444,0.76604444,0.64278761,-537.334,257.707)">
+					<desc  id="desc8659">Fradique Coutinho</desc>
+					<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+					<v:textRect  cx="54.0964" cy="711.44" height="20" width="108.2"></v:textRect>
+					<polygon id="rect8661" class="st5" points="46.7,594.1 133.3,594.1 133.3,610.1 46.7,610.1 					"/>
+					<text id="text8663" transform="matrix(0.9739 0 0 0.9739 51.0964 605.028)" class="st6 st7 st12">Fradique Coutinho<v:paragraph  v:horizAlign="2"></v:paragraph><v:tabList></v:tabList></text>
+				</g>
+			</g>
+			<g id="group280-583" transform="matrix(0.84464775,0,0,0.78730154,723.77645,-117.70352)">
+				<g id="shape115-584" transform="translate(48.2314,-69.4488)">
+					<ellipse id="ellipse8671" class="st9" cx="-71" cy="631.6" rx="2.4" ry="2.2"/>
+				</g>
+				<g id="shape116-586" transform="matrix(0.64278761,-0.76604444,0.76604444,0.64278761,-537.334,257.707)">
+					<desc  id="desc8676">Oscar Freire</desc>
+					<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+					<v:textRect  cx="40.3287" cy="711.44" height="20" width="80.66"></v:textRect>
+					<polygon id="rect8678" class="st5" points="34.8,589.2 99.4,589.2 99.4,605.2 34.8,605.2 					"/>
+					<text id="text8680" transform="matrix(0.9739 0 0 0.9739 42.8118 600.0317)" class="st6 st7 st12">Oscar Freire<v:paragraph  v:horizAlign="2"></v:paragraph><v:tabList></v:tabList></text>
+				</g>
+			</g>
+			<g id="shape295-606" transform="matrix(0.84464775,0,0,0.78730154,862.9972,-77.281992)">
+				<ellipse id="ellipse8728" class="st9" cx="-94.3" cy="607.5" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape296-608" transform="matrix(0.84464775,0,0,0.78730154,878.68048,-105.39324)">
+				<ellipse id="ellipse8733" class="st9" cx="-98" cy="614.6" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape133-623" transform="matrix(0.84464775,0,0,0.78730154,740.64998,-291.41766)">
+				<desc  id="desc8771">8</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="9.2126" cy="712.227" height="18.4252" width="18.43"></v:textRect>
+				<ellipse id="ellipse8773" class="st28" cx="-60.3" cy="656.8" rx="7.8" ry="7.3"/>
+				<text id="text8775" transform="matrix(1.0161 0 0 1.0161 -62.2595 658.9327)" class="st16 st17 st18">8<v:paragraph  v:horizAlign="1"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape304-626" transform="matrix(0.84464775,0,0,0.78730154,740.88901,-307.59749)">
+				<desc  id="desc8780">7</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="9.2126" cy="712.227" height="18.4252" width="18.43"></v:textRect>
+				<ellipse id="ellipse8782" class="st15" cx="-60.3" cy="660.9" rx="7.8" ry="7.3"/>
+				<text id="text8784" transform="matrix(1.0161 0 0 1.0161 -62.3164 663.0431)" class="st16 st17 st18">7<v:paragraph  v:horizAlign="1"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape307-704" transform="matrix(0.84464775,0,0,0.78730154,863.47611,49.031597)">
+				<ellipse id="ellipse8988" class="st29" cx="-94.4" cy="575.4" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape347-706" transform="matrix(0.84464775,0,0,0.78730154,522.29173,-447.97257)">
+				<desc  id="desc8993">METRÔ - SP</desc>
+				<v:userDefs>
+					<v:ud  v:nameU="ScaleFactor" v:val="VT0(1):26"></v:ud>
+					<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+				</v:userDefs>
+				<v:textBlock  v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="120.472" cy="705.19" height="48.0037" width="240.95"></v:textRect>
+				
+					<rect id="rect8995" x="-23.2" y="672.8" transform="matrix(-0.9943 0.1069 -0.1069 -0.9943 233.9852 1363.0751)" class="st5" width="207.3" height="29.9"/>
+			</g>
+			<g id="shape334-711" transform="matrix(0.84464775,0,0,0.78730154,662.58766,-200.10423)">
+				<desc  id="desc9007">2</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="9.2126" cy="712.227" height="18.4252" width="18.43"></v:textRect>
+				<ellipse id="ellipse9009" class="st2" cx="-41.8" cy="633.6" rx="7.8" ry="7.3"/>
+				<text id="text9011" transform="matrix(1.0161 0 0 1.0161 -43.7757 635.7363)" class="st16 st17 st18">2<v:paragraph  v:horizAlign="1"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape335-714" transform="matrix(0.84464775,0,0,0.78730154,619.25974,-163.54573)">
+				<desc  id="desc9016">4</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="9.2126" cy="712.227" height="18.4252" width="18.43"></v:textRect>
+				<ellipse id="ellipse9018" class="st0" cx="-31.5" cy="624.3" rx="7.8" ry="7.3"/>
+				<text id="text9020" transform="matrix(1.0161 0 0 1.0161 -33.5166 626.4494)" class="st16 st17 st18">4<v:paragraph  v:horizAlign="1"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape336-717" transform="matrix(0.84464775,0,0,0.78730154,498.34901,-60.886328)">
+				<desc  id="desc9025">5</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="9.2126" cy="712.227" height="18.4252" width="18.43"></v:textRect>
+				<ellipse id="ellipse9027" class="st1" cx="-2.9" cy="598.2" rx="7.8" ry="7.3"/>
+				<text id="text9029" transform="matrix(1.0161 0 0 1.0161 -4.8867 600.3705)" class="st16 st17 st18">5<v:paragraph  v:horizAlign="1"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="group355-735" transform="matrix(0,-0.78730154,0.84464775,0,13.488512,516.65446)">
+				<g id="group356-736" transform="matrix(-1,0,0,-1,14.3383,1434.38)">
+					<v:userDefs>
+						<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+					</v:userDefs>
+					<g id="shape357-737">
+						<path id="path9106" inkscape:connector-curvature="0" class="st11" d="M-106.7,754h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2C-103.9,754-106.7,754-106.7,754z"/>
+						<path id="path9108" inkscape:connector-curvature="0" class="st5" d="M-106.7,754h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2"/>
+					</g>
+					<g id="shape358-740" transform="translate(0,-1.27559)">
+						<path id="path9113" inkscape:connector-curvature="0" class="st9" d="M-106.1,756.3h-7.2c-0.6-1.2-2-1.7-3.2-1.1
+							c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4h7.2c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+							c0-1.3-1.1-2.4-2.4-2.4C-104.9,755-105.7,755.5-106.1,756.3z"/>
+					</g>
+				</g>
+				<g id="group359-742">
+					<v:userDefs>
+						<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+					</v:userDefs>
+					<g id="shape360-743">
+						<path id="path9121" inkscape:connector-curvature="0" class="st11" d="M127,676.3h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2C129.8,676.3,127,676.3,127,676.3z"/>
+						<path id="path9123" inkscape:connector-curvature="0" class="st5" d="M127,676.3h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2"/>
+					</g>
+					<g id="shape361-746" transform="translate(0,-1.27559)">
+						<path id="path9128" inkscape:connector-curvature="0" class="st9" d="M127.6,678.6h-7.2c-0.6-1.2-2-1.7-3.2-1.1
+							c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4h7.2c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+							c0-1.3-1.1-2.4-2.4-2.4C128.8,677.2,128,677.7,127.6,678.6z"/>
+					</g>
+				</g>
+			</g>
+			<g id="shape176-749" transform="matrix(0.84464775,0,0,0.78730154,981.08532,-155.11451)">
+				<desc  id="desc9136">Tamanduateí</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="42.3189" cy="711.44" height="20" width="84.64"></v:textRect>
+				
+					<rect id="rect9138" x="-122" y="612.8" transform="matrix(-1 -9.507406e-03 9.507406e-03 -1 -187.3122 1242.1403)" class="st5" width="62.5" height="17.3"/>
+				<text id="text9140" transform="matrix(1.0161 0 0 1.0161 -121.3587 624.3954)" class="st6 st7 st8">Tamanduateí<v:paragraph></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape183-752" transform="matrix(0.84464775,0,0,0.78730154,958.00884,-176.66698)">
+				<desc  id="desc9145">10</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="9.2126" cy="712.227" height="18.4252" width="18.43"></v:textRect>
+				<ellipse id="ellipse9147" class="st25" cx="-111.7" cy="627.6" rx="7.8" ry="7.3"/>
+				<text id="text9149" transform="matrix(1.0161 0 0 1.0161 -115.7268 629.7823)" class="st16 st17 st18">10<v:paragraph  v:horizAlign="1"></v:paragraph><v:tabList></v:tabList></text>
+				<g id="g8370" transform="translate(92.757625,1.9759097)">
+					<ellipse id="circle12179" class="st21" cx="-43.6" cy="623.8" rx="7.8" ry="7.3"/>
+					<text id="text12181" transform="matrix(1.0161 0 0 1.0161 -47.6472 625.9929)" class="st16 st17 st18">15<v:paragraph  v:horizAlign="1"></v:paragraph><v:tabList></v:tabList></text>
+				</g>
+			</g>
+			<g id="shape242-755" transform="matrix(0.84464775,0,0,0.78730154,517.74263,-84.185729)">
+				
+					<rect id="rect9154" x="-14.5" y="602.5" transform="matrix(-0.9999 -1.094308e-02 1.094308e-02 -0.9999 -27.3391 1214.2048)" class="st5" width="8.3" height="9.4"/>
+				<g>
+					<defs>
+						<rect id="SVGID_3_" x="-15.1" y="602.9" width="9.5" height="8.5"/>
+					</defs>
+					<clipPath id="SVGID_4_">
+						<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+					</clipPath>
+					<g transform="matrix(1 0 0 1 -9.536743e-07 0)" style="clip-path:url(#SVGID_4_);enable-background:new    ;">
+						
+							<image style="overflow:visible;" width="157" height="45" id="image9159" xlink:href="B9C473AE.png"  transform="matrix(0.192 0 0 0.192 -14.8465 602.8572)">
+						</image>
+					</g>
+				</g>
+				
+					<rect id="rect9161" x="-14.5" y="602.5" transform="matrix(-0.9999 -1.094308e-02 1.094308e-02 -0.9999 -27.3391 1214.2048)" class="st5" width="8.3" height="9.4"/>
+			</g>
+			<g id="shape118-759" transform="matrix(0.84464775,0,0,0.78730154,858.6878,61.30051)">
+				
+					<rect id="rect9166" x="-95.1" y="565.5" transform="matrix(-0.9999 -1.174024e-02 1.174024e-02 -0.9999 -186.5403 1139.3433)" class="st5" width="10.4" height="9.4"/>
+				<g>
+					<defs>
+						<rect id="SVGID_5_" x="-95.9" y="566" width="11.9" height="8.5"/>
+					</defs>
+					<clipPath id="SVGID_6_">
+						<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+					</clipPath>
+					<g transform="matrix(1 0 0 1 0 0)" style="clip-path:url(#SVGID_6_);enable-background:new    ;">
+						
+							<image style="overflow:visible;" width="157" height="45" id="image9171" xlink:href="B9C473AE.png"  transform="matrix(0.192 0 0 0.192 -93.2727 565.8992)">
+						</image>
+					</g>
+				</g>
+				
+					<rect id="rect9173" x="-95.1" y="565.5" transform="matrix(-0.9999 -1.174024e-02 1.174024e-02 -0.9999 -186.5403 1139.3433)" class="st5" width="10.4" height="9.4"/>
+			</g>
+			<g id="shape367-763" transform="matrix(0.84464775,0,0,0.78730154,948.11338,-161.98429)">
+				
+					<rect id="rect9178" x="-116.3" y="622.3" transform="matrix(-0.9999 -1.259544e-02 1.259544e-02 -0.9999 -229.2184 1252.4374)" class="st5" width="11.2" height="9.4"/>
+				<g>
+					<defs>
+						<rect id="SVGID_7_" x="-117.1" y="622.7" width="12.9" height="8.5"/>
+					</defs>
+					<clipPath id="SVGID_8_">
+						<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+					</clipPath>
+					<g transform="matrix(1 0 0 1 0 0)" style="clip-path:url(#SVGID_8_);enable-background:new    ;">
+						
+							<image style="overflow:visible;" width="157" height="45" id="image9183" xlink:href="B9C473AA.png"  transform="matrix(0.192 0 0 0.192 -113.5768 622.6205)">
+						</image>
+					</g>
+				</g>
+				
+					<rect id="rect9185" x="-116.3" y="622.3" transform="matrix(-0.9999 -1.259544e-02 1.259544e-02 -0.9999 -229.2184 1252.4374)" class="st5" width="11.2" height="9.4"/>
+			</g>
+			<g id="group219-767" transform="matrix(0,-0.78730154,0.84464775,0,-59.536356,499.85187)">
+				<g id="group221-768" transform="matrix(-1,0,0,-1,14.3383,1434.38)">
+					<v:userDefs>
+						<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+					</v:userDefs>
+					<g id="shape230-769">
+						<path id="path9196" inkscape:connector-curvature="0" class="st11" d="M-102.4,736.7h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2C-99.7,736.7-102.4,736.7-102.4,736.7z"/>
+						<path id="path9198" inkscape:connector-curvature="0" class="st5" d="M-102.4,736.7h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2"/>
+					</g>
+					<g id="shape231-772" transform="translate(0,-1.27559)">
+						<path id="path9203" inkscape:connector-curvature="0" class="st9" d="M-101.8,739h-7.2c-0.6-1.2-2-1.7-3.2-1.1
+							c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4h7.2c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+							c0-1.3-1.1-2.4-2.4-2.4C-100.6,737.7-101.4,738.2-101.8,739z"/>
+					</g>
+				</g>
+				<g id="group232-774">
+					<v:userDefs>
+						<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+					</v:userDefs>
+					<g id="shape233-775">
+						<path id="path9211" inkscape:connector-curvature="0" class="st11" d="M122.8,693.6h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2C125.5,693.6,122.8,693.6,122.8,693.6z"/>
+						<path id="path9213" inkscape:connector-curvature="0" class="st5" d="M122.8,693.6h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2"/>
+					</g>
+					<g id="shape234-778" transform="translate(0,-1.27559)">
+						<path id="path9218" inkscape:connector-curvature="0" class="st9" d="M123.3,695.9h-7.2c-0.6-1.2-2-1.7-3.2-1.1
+							c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4h7.2c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+							c0-1.3-1.1-2.4-2.4-2.4C124.6,694.5,123.7,695,123.3,695.9z"/>
+					</g>
+				</g>
+			</g>
+			<g id="shape368-780" transform="matrix(0.84464775,0,0,0.78730154,543.8403,-77.131508)">
+				<ellipse id="ellipse9223" class="st29" cx="-18.8" cy="607.4" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="group369-782" transform="matrix(0,0.78730154,-0.84464775,0,1582.9783,389.60446)">
+				<g id="group370-783" transform="matrix(-1,0,0,-1,14.3383,1434.38)">
+					<v:userDefs>
+						<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+					</v:userDefs>
+					<g id="shape371-784">
+						<path id="path9234" inkscape:connector-curvature="0" class="st11" d="M97.6,591.5h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2C100.4,591.5,97.6,591.5,97.6,591.5z"/>
+						<path id="path9236" inkscape:connector-curvature="0" class="st5" d="M97.6,591.5h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2"/>
+					</g>
+					<g id="shape372-787" transform="translate(0,-1.27559)">
+						<path id="path9241" inkscape:connector-curvature="0" class="st9" d="M98.2,593.8H91c-0.6-1.2-2-1.7-3.2-1.1
+							c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4h7.2c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+							c0-1.3-1.1-2.4-2.4-2.4C99.4,592.5,98.6,593,98.2,593.8z"/>
+					</g>
+				</g>
+				<g id="group373-789">
+					<v:userDefs>
+						<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+					</v:userDefs>
+					<g id="shape374-790">
+						<path id="path9249" inkscape:connector-curvature="0" class="st11" d="M-77.3,838.8h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2C-74.5,838.8-77.3,838.8-77.3,838.8z"/>
+						<path id="path9251" inkscape:connector-curvature="0" class="st5" d="M-77.3,838.8h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2"/>
+					</g>
+					<g id="shape375-793" transform="translate(0,-1.27559)">
+						<path id="path9256" inkscape:connector-curvature="0" class="st9" d="M-76.7,841.1h-7.2c-0.6-1.2-2-1.7-3.2-1.1
+							c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4h7.2c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+							c0-1.3-1.1-2.4-2.4-2.4C-75.5,839.7-76.3,840.3-76.7,841.1z"/>
+					</g>
+				</g>
+			</g>
+			<g id="group351-795" transform="matrix(0.8446477,-2.571121e-4,2.7583988e-4,0.78730149,964.73484,-163.86521)">
+				<v:userDefs>
+					<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+				</v:userDefs>
+				<g id="shape363-796">
+					<path id="path9264" inkscape:connector-curvature="0" class="st11" d="M-112,626.3h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+						c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2C-109.2,626.3-112,626.3-112,626.3z"/>
+					<path id="path9266" inkscape:connector-curvature="0" class="st5" d="M-112,626.3h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+						c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2"/>
+				</g>
+				<g id="shape364-799" transform="translate(0,-1.27559)">
+					<path id="path9271" inkscape:connector-curvature="0" class="st9" d="M-111.4,628.6h-7.2c-0.6-1.2-2-1.7-3.2-1.1
+						c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4h7.2c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+						c0-1.3-1.1-2.4-2.4-2.4C-110.2,627.2-111,627.7-111.4,628.6z"/>
+				</g>
+			</g>
+			<g id="shape366-801" transform="matrix(0.84464775,0,0,0.78730154,962.5235,-165.02008)">
+				<ellipse id="ellipse9276" class="st29" cx="-117.9" cy="629.8" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="shape179-803" transform="matrix(0.5429291,-0.60310796,0.6470377,0.50606767,181.10885,80.402934)">
+				<desc  id="desc9281">Pinheiros</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="30.9467" cy="711.44" height="20" width="61.9"></v:textRect>
+				<polygon id="rect9283" class="st5" points="47.4,606 96.9,606 96.9,622 47.4,622 				"/>
+				<text id="text9285" transform="matrix(0.9739 0 0 0.9739 53.7083 616.922)" class="st6 st7 st12">Pinheiros<v:paragraph  v:horizAlign="2"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="shape187-806" transform="matrix(0.84464775,0,0,0.78730154,633.62551,-118.48452)">
+				<desc  id="desc9290">9</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="9.2126" cy="712.227" height="18.4252" width="18.43"></v:textRect>
+				<ellipse id="ellipse9292" class="st24" cx="-34.9" cy="612.8" rx="7.8" ry="7.3"/>
+				<text id="text9294" transform="matrix(1.0161 0 0 1.0161 -36.9177 615.0023)" class="st16 st17 st18">9<v:paragraph  v:horizAlign="1"></v:paragraph><v:tabList></v:tabList></text>
+			</g>
+			<g id="g11144" transform="matrix(0.84464775,0,0,0.78730154,119.14065,91.559915)">
+				<path id="path9344" inkscape:connector-curvature="0" class="st11" d="M746.4,195.1c0-1.9,1.6-3.5,3.5-3.5
+					c1.9,0,3.5,1.6,3.5,3.5c0,0,0,0,0,0c0,1.9-1.6,3.5-3.5,3.5C748,198.6,746.4,197,746.4,195.1z"/>
+				<path id="path9349" inkscape:connector-curvature="0" class="st9" d="M747.5,195.1c0-1.4,1.1-2.4,2.5-2.4c1.3,0,2.4,1.1,2.4,2.4
+					c0,1.4-1.1,2.5-2.4,2.5C748.6,197.6,747.5,196.5,747.5,195.1C747.5,195.1,747.5,195.1,747.5,195.1z"/>
+			</g>
+			<g id="shape376-832" transform="matrix(0.84464775,0,0,0.78730154,682.22907,-205.39001)">
+				<ellipse id="ellipse9359" class="st9" cx="-51.5" cy="640" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="g11152" transform="matrix(0.84464775,0,0,0.78730154,869.87087,-290.82665)">
+				<desc  id="desc11156">Luz</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="15.3228" cy="711.44" height="20" width="30.65"></v:textRect>
+				
+					<rect id="rect11158" x="-97.6" y="647.6" transform="matrix(-0.9897 0.1433 -0.1433 -0.9897 -77.0378 1317.5297)" class="st5" width="23.3" height="16.8"/>
+				<text id="text11160" transform="matrix(1.0161 0 0 1.0161 -95.0252 658.8707)" class="st7 st8">São</text>
+			</g>
+			<g id="g11162" transform="matrix(0.84464775,0,0,0.78730154,870.21216,-280.96498)">
+				<desc  id="desc11166">Luz</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="15.3228" cy="711.44" height="20" width="30.65"></v:textRect>
+				
+					<rect id="rect11168" x="-97.7" y="645.1" transform="matrix(-0.9881 0.1535 -0.1535 -0.9881 -70.7601 1312.4341)" class="st5" width="23.3" height="16.9"/>
+				<text id="text11170" transform="matrix(1.0161 0 0 1.0161 -95.1056 656.3652)" class="st7 st8">Bento</text>
+			</g>
+			<g id="shape37-551-6" transform="matrix(0.84464775,0,0,0.78730154,1165.1598,-301.70375)">
+				<ellipse id="ellipse8581-4" class="st11" cx="-165.9" cy="664.5" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="g11993" transform="matrix(0.84464775,0,0,0.78730154,868.51082,-117.21346)">
+				<desc  id="desc11997">Ana Rosa</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="31.0472" cy="711.44" height="20" width="62.1"></v:textRect>
+				
+					<rect id="rect11999" x="-96.6" y="603.4" transform="matrix(-0.9844 0.176 -0.176 -0.9844 -37.29 1227.0822)" class="st5" width="47" height="16.9"/>
+				<text id="text12001" transform="matrix(1.0161 0 0 1.0161 -94.7035 614.7676)" class="st7 st8">Chácara</text>
+			</g>
+			<g id="g12003" transform="matrix(0.84464775,0,0,0.78730154,875.38867,-108.89055)">
+				<desc  id="desc12007">Ana Rosa</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="31.0472" cy="711.44" height="20" width="62.1"></v:textRect>
+				
+					<rect id="rect12009" x="-98.1" y="601.3" transform="matrix(-0.9821 0.1884 -0.1884 -0.9821 -33.1733 1222.6991)" class="st5" width="46.9" height="17"/>
+				<text id="text12011" transform="matrix(1.0161 0 0 1.0161 -96.332 612.6527)" class="st7 st8">Klabin</text>
+			</g>
+			<g id="g12013" transform="matrix(0.84464775,0,0,0.78730154,673.73206,-55.241376)">
+				<ellipse id="circle12017" class="st9" cx="-49.5" cy="601.9" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="g12023" transform="matrix(0.84464775,0,0,0.78730154,700.32481,-181.93023)">
+				<desc  id="desc12027">Santuário N. Sra. de Fátima</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="28.3465" cy="704.432" height="34.0157" width="56.7"></v:textRect>
+				
+					<rect id="rect12029" x="-56.7" y="608.2" transform="matrix(-0.9765 0.2156 -0.2156 -0.9765 64.2854 1238.4294)" class="st5" width="42.6" height="29"/>
+				<text id="text12031" transform="matrix(1.0161 0 0 1.0161 -54.8793 621.5198)" class="st7 st20">N. Sa. de Fátima</text>
+			</g>
+			<g id="g6825" transform="translate(17.600021,0)">
+				<g id="group285-816" transform="matrix(0.84464775,0,0,0.78730154,716.34997,-216.42483)">
+					<g id="shape167-817" transform="translate(68.6428,-1.5748)">
+						<ellipse id="ellipse9320" class="st9" cx="-77.5" cy="643.1" rx="2.4" ry="2.2"/>
+					</g>
+					<g id="shape168-819">
+						<desc  id="desc9325">Higienópolis-Mackenzie</desc>
+						<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+						<v:textRect  cx="35.0301" cy="711.44" height="20" width="70.07"></v:textRect>
+						
+							<rect id="rect9327" x="-64.2" y="628.5" transform="matrix(-0.9731 0.2305 -0.2305 -0.9731 71.8346 1265.7886)" class="st5" width="52.4" height="17.1"/>
+						<text id="text9329" transform="matrix(1.0161 0 0 1.0161 -59.4412 634.6903)" class="st6 st7 st30">Higienópolis•<v:paragraph  v:horizAlign="2"></v:paragraph><v:tabList></v:tabList></text>
+						<text transform="matrix(1.0161 0 0 1.0161 -59.6836 641.2371)" class="st7 st30">Mackenzie</text>
+					</g>
+				</g>
+				<g id="g12043" transform="matrix(0.84464775,0,0,0.78730154,783.47716,-222.71066)" class="st22">
+					<ellipse id="circle12047" class="st9" cx="-79.7" cy="644.4" rx="2.4" ry="2.2"/>
+				</g>
+			</g>
+			<g id="g12079" transform="matrix(0.84464775,0,0,0.78730154,157.19444,286.48684)">
+				<path id="path12081" inkscape:connector-curvature="0" class="st11" d="M737.4,145.5c0-1.9,1.6-3.5,3.5-3.5
+					c1.9,0,3.5,1.6,3.5,3.5c0,0,0,0,0,0c0,1.9-1.6,3.5-3.5,3.5C739,149.1,737.4,147.5,737.4,145.5z"/>
+				<path id="path12083" inkscape:connector-curvature="0" class="st9" d="M738.5,145.5c0-1.4,1.1-2.4,2.5-2.4
+					c1.3,0,2.4,1.1,2.4,2.4c0,1.4-1.1,2.5-2.4,2.5C739.6,148.1,738.5,147,738.5,145.5C738.5,145.6,738.5,145.6,738.5,145.5z"/>
+			</g>
+			<g id="g12085" transform="matrix(0.84464775,0,0,0.78730154,172.80844,258.09479)">
+				<path id="path12087" inkscape:connector-curvature="0" class="st11" d="M733.7,152.8c0-1.9,1.6-3.5,3.5-3.5
+					c1.9,0,3.5,1.6,3.5,3.5c0,0,0,0,0,0c0,1.9-1.6,3.5-3.5,3.5C735.3,156.3,733.7,154.7,733.7,152.8z"/>
+				<path id="path12089" inkscape:connector-curvature="0" class="st9" d="M734.8,152.8c0-1.4,1.1-2.4,2.5-2.4
+					c1.3,0,2.4,1.1,2.4,2.4c0,1.4-1.1,2.5-2.4,2.5C735.9,155.3,734.8,154.2,734.8,152.8C734.8,152.8,734.8,152.8,734.8,152.8z"/>
+			</g>
+			<g id="g12091" transform="matrix(0.5429291,-0.60310796,0.6470377,0.50606767,165.70986,38.581716)" class="st22">
+				<desc  id="desc12095">São Paulo-Morumbi</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="37.0599" cy="711.44" height="20" width="74.12"></v:textRect>
+				<polygon id="rect12097" class="st5" points="41.6,615.7 100.9,615.7 100.9,631.7 41.6,631.7 				"/>
+				<text transform="matrix(0.9739 0 0 0.9739 44.8173 620.7829)" class="st7 st12">Morumbi</text>
+				<v:paragraph></v:paragraph>
+				<v:tabList></v:tabList>
+			</g>
+			<g id="g12103" transform="matrix(0.59725615,-0.55670626,0.59725615,0.55670626,256.15413,-37.762377)">
+				<desc  id="desc12107">Vila Madalena</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="43.534" cy="711.44" height="20" width="87.07"></v:textRect>
+				<polygon id="rect12109" class="st5" points="17.4,610.4 87,610.4 87,626.4 17.4,626.4 				"/>
+				<text transform="matrix(0.9798 0 0 0.9798 18.2904 617.7823)" class="st7 st10">Madalena</text>
+				<v:paragraph></v:paragraph>
+				<v:tabList></v:tabList>
+				<v:newlineChar></v:newlineChar>
+			</g>
+			<g id="g12143" transform="matrix(0.84464775,0,0,0.78730154,670.40073,-167.63816)">
+				<ellipse id="circle12147" class="st9" cx="-48.7" cy="630.4" rx="2.4" ry="2.2"/>
+			</g>
+			<g id="g12171" transform="matrix(0.84464775,0,0,0.78730154,252.41424,180.15584)">
+				<path id="path12173" inkscape:connector-curvature="0" class="st11" d="M751,172.5c0-1.9,1.6-3.5,3.5-3.5c1.9,0,3.5,1.6,3.5,3.5
+					c0,0,0,0,0,0c0,1.9-1.6,3.5-3.5,3.5C752.5,176,751,174.5,751,172.5z"/>
+				<path id="path12175" inkscape:connector-curvature="0" class="st9" d="M752,172.5c0-1.4,1.1-2.4,2.5-2.4c1.3,0,2.4,1.1,2.4,2.4
+					c0,1.4-1.1,2.5-2.4,2.5C753.2,175.1,752.1,174,752,172.5C752,172.6,752,172.6,752,172.5z"/>
+			</g>
+			<g id="g12189" transform="matrix(0.84464775,0,0,0.78730154,1006.2645,-192.91493)">
+				<desc  id="desc12193">Vila Prudente</desc>
+				<v:textBlock  v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"></v:textBlock>
+				<v:textRect  cx="42.3189" cy="711.44" height="20" width="84.64"></v:textRect>
+				
+					<rect id="rect12195" x="-130.9" y="623.2" transform="matrix(-0.9997 -2.468851e-02 2.468851e-02 -0.9997 -208.8833 1259.6569)" class="st5" width="68.5" height="15.8"/>
+			</g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="35" height="22" id="image12207" xlink:href="B9C473AA.png"  transform="matrix(0.5406 0 0 0.5039 723.3517 205.679)">
+			</image>
+			<g id="g5474" transform="matrix(-0.0076118,0.99997103,-0.99997103,-0.0076118,958.3493,-742.97822)">
+				<g id="g5414" transform="matrix(0,-0.78730154,0.84464775,0,223.52986,98.23965)">
+					<g id="g5418" transform="matrix(-1,0,0,-1,14.3383,1434.38)">
+						<v:userDefs>
+							<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+						</v:userDefs>
+						<g id="g5422">
+							<path id="path5426" inkscape:connector-curvature="0" class="st11" d="M113,722.6h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+								c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2C115.7,722.6,113,722.6,113,722.6z"/>
+							<path id="path5428" inkscape:connector-curvature="0" class="st5" d="M113,722.6h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+								c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2"/>
+						</g>
+						<g id="g5430" transform="translate(0,-1.27559)">
+							<path id="path5434" inkscape:connector-curvature="0" class="st9" d="M113.5,724.9h-7.2c-0.6-1.2-2-1.7-3.2-1.1
+								c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4h7.2c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+								c0-1.3-1.1-2.4-2.4-2.4C114.8,723.6,113.9,724.1,113.5,724.9z"/>
+						</g>
+					</g>
+					<g id="g5436">
+						<v:userDefs>
+							<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+						</v:userDefs>
+						<g id="g5440">
+							<path id="path5444" inkscape:connector-curvature="0" class="st11" d="M-92.6,707.7h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+								c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2C-89.9,707.7-92.6,707.7-92.6,707.7z"/>
+							<path id="path5446" inkscape:connector-curvature="0" class="st5" d="M-92.6,707.7h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+								c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2"/>
+						</g>
+						<g id="g5448" transform="translate(0,-1.27559)">
+							<path id="path5452" inkscape:connector-curvature="0" class="st9" d="M-92,710h-7.2c-0.6-1.2-2-1.7-3.2-1.1
+								c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4h7.2c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+								c0-1.3-1.1-2.4-2.4-2.4C-90.8,708.6-91.6,709.2-92,710z"/>
+						</g>
+					</g>
+				</g>
+				<g id="g5454" transform="matrix(0.84464775,0,0,0.78730154,826.90648,-467.51406)">
+					
+						<ellipse id="circle5458" transform="matrix(7.611800e-03 -1 1 7.611800e-03 -824.5289 809.0987)" class="st29" cx="-4.6" cy="820" rx="2.4" ry="2.2"/>
+				</g>
+			</g>
+			<g id="g5460" transform="matrix(0.84464775,0,0,0.78730154,837.83169,-478.24399)">
+				
+					<rect id="rect5464" x="-90.7" y="703" transform="matrix(-0.9997 -2.628324e-02 2.628324e-02 -0.9997 -188.5354 1412.0826)" class="st5" width="11.5" height="8.5"/>
+				<g>
+					<defs>
+						<rect id="SVGID_9_" x="-91" y="703" width="11.9" height="8.5"/>
+					</defs>
+					<clipPath id="SVGID_10_">
+						<use xlink:href="#SVGID_9_"  style="overflow:visible;"/>
+					</clipPath>
+					<g transform="matrix(1 0 0 1 0 0)" style="clip-path:url(#SVGID_10_);enable-background:new    ;">
+						
+							<image style="overflow:visible;" width="157" height="45" id="image5470" xlink:href="B9C473B6.png"  transform="matrix(0.192 0 0 0.192 -88.3343 702.9604)">
+						</image>
+					</g>
+				</g>
+				
+					<rect id="rect5472" x="-90.7" y="703" transform="matrix(-0.9997 -2.628324e-02 2.628324e-02 -0.9997 -188.5354 1412.0826)" class="st5" width="11.5" height="8.5"/>
+			</g>
+			<g id="g8389" transform="translate(-22.400027,0)">
+				<g id="g12183" transform="matrix(0.84464775,0,0,0.78730154,1039.5556,-183.72524)">
+					<ellipse id="circle12187" class="st9" cx="-130.8" cy="634.5" rx="2.4" ry="2.2"/>
+				</g>
+				<text id="text12197" transform="matrix(0.5918 -0.5401 0.5794 0.5516 930.9788 312.6258)" class="st7 st31">Oratório</text>
+			</g>
+			<g id="g8395" transform="translate(4.8000054,0)">
+				<g id="g8397" transform="matrix(0.84464775,0,0,0.78730154,1039.5556,-183.72524)">
+					<ellipse id="circle8401" class="st9" cx="-137.3" cy="634.5" rx="2.4" ry="2.2"/>
+				</g>
+				<text transform="matrix(0.5918 -0.5401 0.5794 0.5516 925.5386 312.6258)" class="st7 st32">São Lucas</text>
+				<v:paragraph></v:paragraph>
+				<v:tabList></v:tabList>
+			</g>
+			<g id="g8407" transform="translate(32.000039,0)">
+				<g id="g8409" transform="matrix(0.84464775,0,0,0.78730154,1039.5556,-183.72524)">
+					<ellipse id="circle8414" class="st9" cx="-143.7" cy="634.5" rx="2.4" ry="2.2"/>
+				</g>
+				<text transform="matrix(0.5918 -0.5401 0.5794 0.5516 920.0986 312.6255)" class="st7 st32">Camilo Haddad</text>
+				<v:paragraph></v:paragraph>
+				<v:tabList></v:tabList>
+			</g>
+			<g id="g8420" transform="translate(59.200073,0)">
+				<g id="g8422" transform="matrix(0.84464775,0,0,0.78730154,1039.5556,-183.72524)">
+					<ellipse id="circle8426" class="st9" cx="-150.2" cy="634.5" rx="2.4" ry="2.2"/>
+				</g>
+				<text transform="matrix(0.5918 -0.5401 0.5794 0.5516 914.6584 312.6254)" class="st7 st32">Vila Tolstói</text>
+				<v:paragraph></v:paragraph>
+				<v:tabList></v:tabList>
+			</g>
+			<g id="g8434" transform="matrix(0.84464775,0,0,0.78730154,1121.1557,-183.72524)">
+				<ellipse id="circle8439" class="st9" cx="-155.5" cy="634.5" rx="2.4" ry="2.2"/>
+			</g>
+			<text transform="matrix(0.5918 -0.5401 0.5794 0.5516 964.7385 345.4353)" class="st7 st32">Vila União</text>
+			<v:paragraph></v:paragraph>
+			<v:tabList></v:tabList>
+			<g id="g8454" transform="matrix(0.84464775,0,0,0.78730154,758.40642,-282.40452)">
+				
+					<rect id="rect8459" x="-71.9" y="653.3" transform="matrix(-0.9992 -4.005909e-02 4.005909e-02 -0.9992 -157.7787 1311.9005)" class="st5" width="12.3" height="8.5"/>
+				<g>
+					<defs>
+						<rect id="SVGID_11_" x="-72.2" y="653.3" width="12.9" height="8.5"/>
+					</defs>
+					<clipPath id="SVGID_12_">
+						<use xlink:href="#SVGID_11_"  style="overflow:visible;"/>
+					</clipPath>
+					<g transform="matrix(1 0 0 1 0 0)" style="clip-path:url(#SVGID_12_);enable-background:new    ;">
+						
+							<image style="overflow:visible;" width="157" height="45" id="image8465" xlink:href="B9C473B6.png"  transform="matrix(0.192 0 0 0.192 -68.6571 653.211)">
+						</image>
+					</g>
+				</g>
+				
+					<rect id="rect8467" x="-71.9" y="653.3" transform="matrix(-0.9992 -4.005909e-02 4.005909e-02 -0.9992 -157.7787 1311.9005)" class="st5" width="12.3" height="8.5"/>
+			</g>
+			<g id="g8509" transform="matrix(-0.0063602,-0.78727585,-0.84462019,0.00682346,1354.468,288.27489)">
+				<g id="g8513" transform="matrix(-1,0,0,-1,14.3383,1434.38)">
+					<v:userDefs>
+						<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+					</v:userDefs>
+					<g id="g8517">
+						<path id="path8522" inkscape:connector-curvature="0" class="st11" d="M-50.5,646.1h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2C-47.8,646.1-50.5,646.1-50.5,646.1z"/>
+						<path id="path8524" inkscape:connector-curvature="0" class="st5" d="M-50.5,646.1h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2"/>
+					</g>
+					<g id="g8526" transform="translate(0,-1.27559)">
+						<path id="path8530" inkscape:connector-curvature="0" class="st9" d="M-49.9,648.4h-7.2c-0.6-1.2-2-1.7-3.2-1.1
+							c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4h7.2c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+							c0-1.3-1.1-2.4-2.4-2.4C-48.7,647-49.5,647.6-49.9,648.4z"/>
+					</g>
+				</g>
+				<g id="g8532">
+					<v:userDefs>
+						<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+					</v:userDefs>
+					<g id="g8537">
+						<path id="path8541" inkscape:connector-curvature="0" class="st11" d="M70.9,784.2h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8l0-2v-2C73.6,784.2,70.9,784.2,70.9,784.2z"/>
+						<path id="path8544" inkscape:connector-curvature="0" class="st5" d="M70.9,784.2h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8l0-2v-2"/>
+					</g>
+					<g id="g8546" transform="translate(0,-1.27559)">
+						<path id="path8550" inkscape:connector-curvature="0" class="st9" d="M71.4,786.5h-7.2c-0.6-1.2-2-1.7-3.2-1.1
+							c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4h7.2c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+							c0-1.3-1.1-2.4-2.4-2.4C72.7,785.2,71.8,785.7,71.4,786.5z"/>
+					</g>
+				</g>
+			</g>
+			
+				<g id="g8552" transform="matrix(-0.69004861,0.48709621,0.45399592,0.64321956,433.10487,-175.11081)" inkscape:transform-center-x="-0.5371667" inkscape:transform-center-y="-0.037301895">
+				<v:userDefs>
+					<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+				</v:userDefs>
+				<g id="g8556">
+					<path id="path8560" inkscape:connector-curvature="0" class="st11" d="M35.4,621.9h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+						c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2C38.1,621.9,35.4,621.9,35.4,621.9z"/>
+					<path id="path8562" inkscape:connector-curvature="0" class="st5" d="M35.4,621.9h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+						c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2"/>
+				</g>
+				<g id="g8564" transform="translate(0,-1.27559)">
+					<path id="path8568" inkscape:connector-curvature="0" class="st9" d="M36,624.1h-7.2c-0.6-1.2-2-1.7-3.2-1.1
+						c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4H36c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+						c0-1.3-1.1-2.4-2.4-2.4C37.2,622.8,36.3,623.3,36,624.1z"/>
+				</g>
+			</g>
+			
+				<g id="g8570" transform="matrix(-0.68990032,0.48730624,0.45422125,0.64306048,434.24483,-177.32984)" inkscape:transform-center-x="-6.0449216" inkscape:transform-center-y="-3.8070238">
+				
+					<ellipse id="circle8574" transform="matrix(0.8168 -0.5769 0.5769 0.8168 -355.3701 131.5474)" class="st29" cx="29.4" cy="625.3" rx="2.4" ry="2.2"/>
+			</g>
+			
+				<rect id="rect8576" x="689.2" y="241.5" transform="matrix(-0.9849 -0.1733 0.1733 -0.9849 1327.6304 600.7989)" class="st33" width="1.7" height="1.8"/>
+			
+				<rect id="rect8578" x="689.1" y="241.4" transform="matrix(-0.9849 -0.1733 0.1733 -0.9849 1327.4374 600.982)" class="st34" width="1.7" height="2.3"/>
+			<text transform="matrix(0.5288 -0.5874 0.6302 0.4929 723.2116 457.4908)" class="st7 st23">Hospital São Paulo</text>
+			<v:paragraph  v:horizAlign="2"></v:paragraph>
+			<v:tabList></v:tabList>
+			<g id="g9431" transform="matrix(0.84464775,0,0,0.78730154,717.34584,-84.930053)">
+				
+					<rect id="rect9435" x="-62" y="602.9" transform="matrix(-0.9849 -0.1733 0.1733 -0.9849 -219.5992 1195.5607)" class="st5" width="8.7" height="8.9"/>
+				<g>
+					<defs>
+						<rect id="SVGID_13_" x="-62.4" y="603.1" width="9.5" height="8.5"/>
+					</defs>
+					<clipPath id="SVGID_14_">
+						<use xlink:href="#SVGID_13_"  style="overflow:visible;"/>
+					</clipPath>
+					<g transform="matrix(1 0 0 1 -3.814697e-06 0)" style="clip-path:url(#SVGID_14_);enable-background:new    ;">
+						
+							<image style="overflow:visible;" width="157" height="45" id="image9441" xlink:href="B9C473BA.png"  transform="matrix(0.192 0 0 0.192 -62.1094 603.0463)">
+						</image>
+					</g>
+				</g>
+				
+					<rect id="rect9443" x="-62" y="602.9" transform="matrix(-0.9849 -0.1733 0.1733 -0.9849 -219.5992 1195.5607)" class="st5" width="8.7" height="8.9"/>
+			</g>
+			<g id="g9445" transform="matrix(0,-0.78730154,0.84464775,0,116.12405,499.10754)">
+				<g id="g9449" transform="matrix(-1,0,0,-1,14.3383,1434.38)">
+					<v:userDefs>
+						<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+					</v:userDefs>
+					<g id="g9453">
+						<path id="path9457" inkscape:connector-curvature="0" class="st11" d="M-102.2,778.3h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2C-99.5,778.3-102.2,778.3-102.2,778.3z"/>
+						<path id="path9459" inkscape:connector-curvature="0" class="st5" d="M-102.2,778.3h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2"/>
+					</g>
+					<g id="g9461" transform="translate(0,-1.27559)">
+						<path id="path9465" inkscape:connector-curvature="0" class="st9" d="M-101.6,780.6h-7.2c-0.6-1.2-2-1.7-3.2-1.1
+							c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4h7.2c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+							c0-1.3-1.1-2.4-2.4-2.4C-100.4,779.3-101.2,779.8-101.6,780.6z"/>
+					</g>
+				</g>
+				<g id="g9467">
+					<v:userDefs>
+						<v:ud  v:nameU="visVersion" v:val="VT0(12):26"></v:ud>
+					</v:userDefs>
+					<g id="g9471">
+						<path id="path9475" inkscape:connector-curvature="0" class="st11" d="M122.6,652h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2C125.3,652,122.6,652,122.6,652z"/>
+						<path id="path9477" inkscape:connector-curvature="0" class="st5" d="M122.6,652h-6c-1.1-1.5-3.3-1.8-4.8-0.7
+							c-0.9,0.6-1.4,1.6-1.4,2.7c0,1.9,1.5,3.4,3.4,3.4c1.1,0,2.1-0.5,2.7-1.4h8.8v-2v-2"/>
+					</g>
+					<g id="g9479" transform="translate(0,-1.27559)">
+						<path id="path9483" inkscape:connector-curvature="0" class="st9" d="M123.1,654.3H116c-0.6-1.2-2-1.7-3.2-1.1
+							c-0.8,0.4-1.4,1.2-1.4,2.2c0,1.3,1.1,2.4,2.4,2.4c0.9,0,1.8-0.5,2.2-1.4h7.2c0.6,1.2,2,1.7,3.2,1.1c0.8-0.4,1.3-1.2,1.3-2.1
+							c0-1.3-1.1-2.4-2.4-2.4C124.4,652.9,123.5,653.4,123.1,654.3z"/>
+					</g>
+				</g>
+			</g>
+			<g id="g9485" transform="matrix(0.84464775,0,0,0.78730154,719.50071,-77.875832)">
+				<ellipse id="circle9489" class="st29" cx="-60.4" cy="607.6" rx="2.4" ry="2.2"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
