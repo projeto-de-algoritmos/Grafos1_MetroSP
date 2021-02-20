@@ -24,9 +24,16 @@ const stationExists = (station) => {
 const getNeighboringStation = (index, stations, op) => {
   const indexStation = stationExists(stations[index])
   if (indexStation !== -1) {
-    stationsGraph[indexStation].neighboringStations.push(
-      stations[index + op].id
-    )
+    const indexActualStations = stationExists(stations[index + op])
+    if (indexActualStations !== -1) {
+      stationsGraph[indexStation].neighboringStations.push(
+        stationsGraph[indexActualStations].id
+      )
+    } else {
+      stationsGraph[indexStation].neighboringStations.push(
+        stations[index + op].id
+      )
+    }
     return stationsGraph[indexStation].id
   }
   return stations[index].id
@@ -66,7 +73,7 @@ const loadStations = () => {
   })
 
   fs.writeFile(
-    './src/assets/js/stationsGraphs.json',
+    './src/assets/js/stationsGraph.json',
     JSON.stringify(stationsGraph),
     (err) => {
       if (err) {
