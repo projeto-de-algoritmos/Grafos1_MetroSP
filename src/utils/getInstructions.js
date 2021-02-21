@@ -31,7 +31,7 @@ const BFS = (startStation, endStation) => {
   return false
 }
 
-const getInstructions = (startStation, endStation) => {
+export const getInstructions = (startStation, endStation) => {
   BFS(startStation, endStation)
   let path = []
   let parent = endStation.id

@@ -12,10 +12,9 @@ import bxCaptions from '@iconify/icons-bx/bx-captions'
 import bxsCircle from '@iconify/icons-bx/bxs-circle'
 import pathImage from '../../assets/img/path.png'
 
-const options = [
-  { value: 1, label: 'Tucuruvi' },
-  { value: 2, label: 'Parada Inglesa' },
-]
+import { getStationsList } from '../../utils/otherUtils'
+
+const options = getStationsList()
 
 const captions = [
   { color: '#003C86', label: 'Linha 1 - Azul' },
