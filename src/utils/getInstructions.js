@@ -3,16 +3,17 @@ const stationsGraph = require('../assets/js/stationsGraph.json')
 
 const distances = new Array(150)
 const parents = new Array(150)
+const visited = new Array(150)
 
 const BFS = (startStation, endStation) => {
-  let stations = JSON.parse(JSON.stringify(stationsGraph)) // Deep copy of graph
   const queue = []
 
-  queue.push(stations[startStation])
+  queue.push(stationsGraph[startStation])
   distances.fill('Infinity')
   parents.fill(-1)
+  visited.fill(false)
 
-  stations[startStation].visited = true
+  visited[startStation] = true
   distances[startStation] = 0
 
   while (queue.length > 0) {
@@ -24,12 +25,12 @@ const BFS = (startStation, endStation) => {
     }
 
     currentNode.neighboringStations.forEach((neigh) => {
-      if (!stations[neigh].visited) {
+      if (visited[neigh] === false) {
         distances[neigh] = distances[currentNode.id] + 1
         parents[neigh] = currentNode.id
 
-        stations[neigh].visited = true
-        queue.push(stations[neigh])
+        visited[neigh] = true
+        queue.push(stationsGraph[neigh])
       }
     })
   }

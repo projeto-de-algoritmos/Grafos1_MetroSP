@@ -135,14 +135,13 @@
   },
   "12": {
     "stationName": "São Joaquim",
-    "lineName": "Estação de Integração",
+    "lineName": "Linha 1-Azul",
     "lineNumber": 1,
     "lineColor": "Azul",
     "id": 12,
     "neighboringStations": [
       11,
-      13,
-      108
+      13
     ]
   },
   "13": {
