@@ -12,9 +12,10 @@ const stationsYellow = require('../assets/js/stationsYellow.json')
 let stationsGraph = []
 
 const stationExists = (station) => {
-  for (let j = 0; j < stationsGraph.length; j += 1) {
-    if (stationsGraph[j].stationName === station.stationName) {
-      return j
+  const keys = Object.keys(stationsGraph)
+  for (let i = 0; i < keys.length; i += 1) {
+    if (stationsGraph[keys[i]].stationName === station.stationName) {
+      return stationsGraph[keys[i]].id
     }
   }
   return -1
@@ -22,10 +23,17 @@ const stationExists = (station) => {
 
 const getNeighboringStation = (index, stations, op) => {
   const indexStation = stationExists(stations[index])
-  if (indexStation > -1) {
-    stationsGraph[indexStation].neighboringStations.push(
-      stations[index + op].id
-    )
+  if (indexStation !== -1) {
+    const indexActualStations = stationExists(stations[index + op])
+    if (indexActualStations !== -1) {
+      stationsGraph[indexStation].neighboringStations.push(
+        stationsGraph[indexActualStations].id
+      )
+    } else {
+      stationsGraph[indexStation].neighboringStations.push(
+        stations[index + op].id
+      )
+    }
     return stationsGraph[indexStation].id
   }
   return stations[index].id
@@ -44,7 +52,7 @@ const loadStations = () => {
   ]
 
   stationsLines.forEach((stations) => {
-    const lineGraph = []
+    const lineGraph = {}
     // Percorre todas as estações
     stations.forEach((station, index) => {
       const neighboringStations = []
@@ -57,15 +65,15 @@ const loadStations = () => {
         // Adiciona à lista de adjacências o vizinho "da frente"
         neighboringStations.push(getNeighboringStation(index + 1, stations, -1))
       }
-      if (stationExists(station, stationsGraph) === -1) {
-        lineGraph.push({ ...station, neighboringStations })
+      if (stationExists(station) === -1) {
+        lineGraph[station.id] = { ...station, neighboringStations }
       }
     })
-    stationsGraph = stationsGraph.concat(lineGraph)
+    stationsGraph = { ...stationsGraph, ...lineGraph }
   })
 
   fs.writeFile(
-    './src/utils/graphs_1.json',
+    './src/assets/js/stationsGraph.json',
     JSON.stringify(stationsGraph),
     (err) => {
       if (err) {
