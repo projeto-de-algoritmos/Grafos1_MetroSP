@@ -10,7 +10,7 @@
 | 18/0113666  |  Ítalo Álves Guimarães |
 
 ## Sobre 
-Este projeto tem como objetivo mostrar um guia de viagem pelas estações de metrô de São Paulo. O projeto utiliza dos algoritmos aprendidos na disciplina para achar o menor caminho possível.
+Este projeto tem como objetivo mostrar um guia de viagem pelas estações de metrô de São Paulo. O projeto utiliza dos algoritmos aprendidos na disciplina e do Algoritmo de Dijkstra para achar o menor caminho possível.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
