@@ -23,9 +23,7 @@ const captions = [
   { color: '#EF4035', label: 'Linha 3 - Vermelha' },
   { color: '#FCBD0F', label: 'Linha 4 - Amarela' },
   { color: '#96387F', label: 'Linha 5 - Lilás' },
-  { color: '#F04E22', label: 'Linha 6 - Laranja' },
   { color: '#808080', label: 'Linha 15 - Prata' },
-  // { color: '#f7941e', label: 'Linha 16 - Ouro' },
 ]
 
 const Home = () => {

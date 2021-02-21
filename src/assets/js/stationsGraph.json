@@ -254,8 +254,7 @@
     "lineColor": "Azul",
     "id": 22,
     "neighboringStations": [
-      21,
-      143
+      21
     ]
   },
   "23": {
@@ -378,151 +377,18 @@
     "id": 35,
     "neighboringStations": [
       34,
-      36
-    ]
-  },
-  "36": {
-    "stationName": "Vila Prudente · Orfanato",
-    "lineName": "Linha 2-Verde",
-    "lineNumber": 2,
-    "lineColor": "Verde",
-    "id": 36,
-    "neighboringStations": [
-      35,
-      37
-    ]
-  },
-  "37": {
-    "stationName": "Água Rasa",
-    "lineName": "Linha 2-Verde",
-    "lineNumber": 2,
-    "lineColor": "Verde",
-    "id": 37,
-    "neighboringStations": [
-      36,
-      38
-    ]
-  },
-  "38": {
-    "stationName": "Anália Franco",
-    "lineName": "Linha 2-Verde",
-    "lineNumber": 2,
-    "lineColor": "Verde",
-    "id": 38,
-    "neighboringStations": [
-      37,
-      39
-    ]
-  },
-  "39": {
-    "stationName": "Vila Formosa",
-    "lineName": "Linha 2-Verde",
-    "lineNumber": 2,
-    "lineColor": "Verde",
-    "id": 39,
-    "neighboringStations": [
-      38,
-      40
-    ]
-  },
-  "40": {
-    "stationName": "Guilherme Giorgi",
-    "lineName": "Linha 2-Verde",
-    "lineNumber": 2,
-    "lineColor": "Verde",
-    "id": 40,
-    "neighboringStations": [
-      39,
-      41
-    ]
-  },
-  "41": {
-    "stationName": "Nova Manchester",
-    "lineName": "Linha 2-Verde",
-    "lineNumber": 2,
-    "lineColor": "Verde",
-    "id": 41,
-    "neighboringStations": [
-      40,
-      42
-    ]
-  },
-  "42": {
-    "stationName": "Aricanduva",
-    "lineName": "Linha 2-Verde",
-    "lineNumber": 2,
-    "lineColor": "Verde",
-    "id": 42,
-    "neighboringStations": [
-      41,
-      43
+      111
     ]
   },
   "43": {
     "stationName": "Penha",
     "lineName": "Estação de Integração",
     "lineNumber": 2,
-    "lineColor": "Verde",
+    "lineColor": "Vermelha",
     "id": 43,
     "neighboringStations": [
-      42,
-      44,
       60,
       62
-    ]
-  },
-  "44": {
-    "stationName": "Penha de França",
-    "lineName": "Linha 2-Verde",
-    "lineNumber": 2,
-    "lineColor": "Verde",
-    "id": 44,
-    "neighboringStations": [
-      43,
-      45
-    ]
-  },
-  "45": {
-    "stationName": "Tiquatira",
-    "lineName": "Linha 2-Verde",
-    "lineNumber": 2,
-    "lineColor": "Verde",
-    "id": 45,
-    "neighboringStations": [
-      44,
-      46
-    ]
-  },
-  "46": {
-    "stationName": "Paulo Freire",
-    "lineName": "Linha 2-Verde",
-    "lineNumber": 2,
-    "lineColor": "Verde",
-    "id": 46,
-    "neighboringStations": [
-      45,
-      47
-    ]
-  },
-  "47": {
-    "stationName": "Ponte Grande",
-    "lineName": "Linha 2-Verde",
-    "lineNumber": 2,
-    "lineColor": "Verde",
-    "id": 47,
-    "neighboringStations": [
-      46,
-      48
-    ]
-  },
-  "48": {
-    "stationName": "Dutra",
-    "lineName": "Linha 2-Verde",
-    "lineNumber": 2,
-    "lineColor": "Verde",
-    "id": 48,
-    "neighboringStations": [
-      47
     ]
   },
   "49": {
@@ -919,159 +785,15 @@
       17
     ]
   },
-  "95": {
-    "stationName": "Brasilândia",
-    "lineName": "Linha 6-Laranja",
-    "lineNumber": 6,
-    "lineColor": "Laranja",
-    "id": 95,
-    "neighboringStations": [
-      96
-    ]
-  },
-  "96": {
-    "stationName": "Vila Cardoso",
-    "lineName": "Linha 6-Laranja",
-    "lineNumber": 6,
-    "lineColor": "Laranja",
-    "id": 96,
-    "neighboringStations": [
-      95,
-      97
-    ]
-  },
-  "97": {
-    "stationName": "Itaberaba",
-    "lineName": "Linha 6-Laranja",
-    "lineNumber": 6,
-    "lineColor": "Laranja",
-    "id": 97,
-    "neighboringStations": [
-      96,
-      98
-    ]
-  },
-  "98": {
-    "stationName": "João Paulo I",
-    "lineName": "Linha 6-Laranja",
-    "lineNumber": 6,
-    "lineColor": "Laranja",
-    "id": 98,
-    "neighboringStations": [
-      97,
-      99
-    ]
-  },
-  "99": {
-    "stationName": "Freguesia do Ó",
-    "lineName": "Linha 6-Laranja",
-    "lineNumber": 6,
-    "lineColor": "Laranja",
-    "id": 99,
-    "neighboringStations": [
-      98,
-      100
-    ]
-  },
-  "100": {
-    "stationName": "Santa Marina",
-    "lineName": "Linha 6-Laranja",
-    "lineNumber": 6,
-    "lineColor": "Laranja",
-    "id": 100,
-    "neighboringStations": [
-      99,
-      101
-    ]
-  },
-  "101": {
-    "stationName": "Água Branca",
-    "lineName": "Linha 6-Laranja",
-    "lineNumber": 6,
-    "lineColor": "Laranja",
-    "id": 101,
-    "neighboringStations": [
-      100,
-      102
-    ]
-  },
-  "102": {
-    "stationName": "SESC-Pompéia",
-    "lineName": "Linha 6-Laranja",
-    "lineNumber": 6,
-    "lineColor": "Laranja",
-    "id": 102,
-    "neighboringStations": [
-      101,
-      103
-    ]
-  },
-  "103": {
-    "stationName": "Perdizes",
-    "lineName": "Linha 6-Laranja",
-    "lineNumber": 6,
-    "lineColor": "Laranja",
-    "id": 103,
-    "neighboringStations": [
-      102,
-      104
-    ]
-  },
-  "104": {
-    "stationName": "PUC-Cardoso de Almeida",
-    "lineName": "Linha 6-Laranja",
-    "lineNumber": 6,
-    "lineColor": "Laranja",
-    "id": 104,
-    "neighboringStations": [
-      103,
-      105
-    ]
-  },
-  "105": {
-    "stationName": "Angélica-Pacaembu",
-    "lineName": "Linha 6-Laranja",
-    "lineNumber": 6,
-    "lineColor": "Laranja",
-    "id": 105,
-    "neighboringStations": [
-      104,
-      106
-    ]
-  },
   "106": {
     "stationName": "Higienópolis-Mackenzie",
-    "lineName": "Estação de Integração",
+    "lineName": "Linha 4-Amarela",
     "lineNumber": 6,
-    "lineColor": "Laranja",
+    "lineColor": "Amarela",
     "id": 106,
     "neighboringStations": [
-      105,
-      107,
       26,
       52
-    ]
-  },
-  "107": {
-    "stationName": "14 Bis",
-    "lineName": "Linha 6-Laranja",
-    "lineNumber": 6,
-    "lineColor": "Laranja",
-    "id": 107,
-    "neighboringStations": [
-      106,
-      108
-    ]
-  },
-  "108": {
-    "stationName": "Bela Vista",
-    "lineName": "Linha 6-Laranja",
-    "lineNumber": 6,
-    "lineColor": "Laranja",
-    "id": 108,
-    "neighboringStations": [
-      107,
-      12
     ]
   },
   "110": {
@@ -1091,6 +813,7 @@
     "lineColor": "Prata",
     "id": 111,
     "neighboringStations": [
+      35,
       110,
       112
     ]
@@ -1190,261 +913,28 @@
     "lineColor": "Prata",
     "id": 120,
     "neighboringStations": [
-      119,
-      121
-    ]
-  },
-  "121": {
-    "stationName": "Iguatemi",
-    "lineName": "Linha 15-Prata",
-    "lineNumber": 15,
-    "lineColor": "Prata",
-    "id": 121,
-    "neighboringStations": [
-      120,
-      122
-    ]
-  },
-  "122": {
-    "stationName": "Jequiriçá",
-    "lineName": "Linha 15-Prata",
-    "lineNumber": 15,
-    "lineColor": "Prata",
-    "id": 122,
-    "neighboringStations": [
-      121,
-      123
-    ]
-  },
-  "123": {
-    "stationName": "Jacú-Pêssego",
-    "lineName": "Linha 15-Prata",
-    "lineNumber": 15,
-    "lineColor": "Prata",
-    "id": 123,
-    "neighboringStations": [
-      122,
-      124
-    ]
-  },
-  "124": {
-    "stationName": "Érico Semer",
-    "lineName": "Linha 15-Prata",
-    "lineNumber": 15,
-    "lineColor": "Prata",
-    "id": 124,
-    "neighboringStations": [
-      123,
-      125
-    ]
-  },
-  "125": {
-    "stationName": "Márcio Beck",
-    "lineName": "Linha 15-Prata",
-    "lineNumber": 15,
-    "lineColor": "Prata",
-    "id": 125,
-    "neighboringStations": [
-      124,
-      126
-    ]
-  },
-  "126": {
-    "stationName": "Cidade Tiradentes",
-    "lineName": "Linha 15-Prata",
-    "lineNumber": 15,
-    "lineColor": "Prata",
-    "id": 126,
-    "neighboringStations": [
-      125,
-      127
-    ]
-  },
-  "127": {
-    "stationName": "Hospital Cidade Tiradentes",
-    "lineName": "Linha 15-Prata",
-    "lineNumber": 15,
-    "lineColor": "Prata",
-    "id": 127,
-    "neighboringStations": [
-      126
+      119
     ]
   },
   "128": {
     "stationName": "São Paulo-Morumbi",
-    "lineName": "Estação de Integração",
-    "lineNumber": 17,
-    "lineColor": "Ouro",
+    "lineName": "Linha 4-Amarela",
+    "lineNumber": 4,
+    "lineColor": "Amarela",
     "id": 128,
     "neighboringStations": [
-      129,
-      67,
       69
-    ]
-  },
-  "129": {
-    "stationName": "Estádio Morumbi",
-    "lineName": "Linha 17-Ouro",
-    "lineNumber": 17,
-    "lineColor": "Ouro",
-    "id": 129,
-    "neighboringStations": [
-      128,
-      130
-    ]
-  },
-  "130": {
-    "stationName": "Américo Mourano",
-    "lineName": "Linha 17-Ouro",
-    "lineNumber": 17,
-    "lineColor": "Ouro",
-    "id": 130,
-    "neighboringStations": [
-      129,
-      131
-    ]
-  },
-  "131": {
-    "stationName": "Paraisópolis",
-    "lineName": "Linha 17-Ouro",
-    "lineNumber": 17,
-    "lineColor": "Ouro",
-    "id": 131,
-    "neighboringStations": [
-      130,
-      132
-    ]
-  },
-  "132": {
-    "stationName": "Panamby",
-    "lineName": "Linha 17-Ouro",
-    "lineNumber": null,
-    "id": 132,
-    "neighboringStations": [
-      131,
-      133
-    ]
-  },
-  "133": {
-    "stationName": "Morumbi",
-    "lineName": "Linha 17-Ouro",
-    "lineNumber": null,
-    "id": 133,
-    "neighboringStations": [
-      132,
-      134
-    ]
-  },
-  "134": {
-    "stationName": "Chucri Zaidan",
-    "lineName": "Linha 17-Ouro",
-    "lineNumber": 17,
-    "lineColor": "Ouro",
-    "id": 134,
-    "neighboringStations": [
-      133,
-      135
-    ]
-  },
-  "135": {
-    "stationName": "Vila Cordeiro",
-    "lineName": "Linha 17-Ouro",
-    "lineNumber": 17,
-    "lineColor": "Ouro",
-    "id": 135,
-    "neighboringStations": [
-      134,
-      136
     ]
   },
   "136": {
     "stationName": "Campo Belo",
-    "lineName": "Linha 17-Ouro",
-    "lineNumber": 17,
-    "lineColor": "Ouro",
+    "lineName": "Linha 5-Lilás",
+    "lineNumber": 5,
+    "lineColor": "Lilás",
     "id": 136,
     "neighboringStations": [
-      135,
-      137,
       87,
       89
-    ]
-  },
-  "137": {
-    "stationName": "Vereador José Diniz",
-    "lineName": "Linha 17-Ouro",
-    "lineNumber": 17,
-    "lineColor": "Ouro",
-    "id": 137,
-    "neighboringStations": [
-      136,
-      138
-    ]
-  },
-  "138": {
-    "stationName": "Brooklin Paulista",
-    "lineName": "Linha 17-Ouro",
-    "lineNumber": 17,
-    "lineColor": "Ouro",
-    "id": 138,
-    "neighboringStations": [
-      137,
-      139
-    ]
-  },
-  "139": {
-    "stationName": "Congonhas · Jardim Aeroporto",
-    "lineName": "Linha 17-Ouro",
-    "lineNumber": 17,
-    "lineColor": "Ouro",
-    "id": 139,
-    "neighboringStations": [
-      138,
-      140
-    ]
-  },
-  "140": {
-    "stationName": "Vila Paulista",
-    "lineName": "Linha 17-Ouro",
-    "lineNumber": 17,
-    "lineColor": "Ouro",
-    "id": 140,
-    "neighboringStations": [
-      139,
-      141
-    ]
-  },
-  "141": {
-    "stationName": "Vila Babilônia",
-    "lineName": "Linha 17-Ouro",
-    "lineNumber": 17,
-    "lineColor": "Ouro",
-    "id": 141,
-    "neighboringStations": [
-      140,
-      142
-    ]
-  },
-  "142": {
-    "stationName": "Cidade Leonor",
-    "lineName": "Linha 17-Ouro",
-    "lineNumber": 17,
-    "lineColor": "Ouro",
-    "id": 142,
-    "neighboringStations": [
-      141,
-      143
-    ]
-  },
-  "143": {
-    "stationName": "Hospital Sabóia",
-    "lineName": "Linha 17-Ouro",
-    "lineNumber": 17,
-    "lineColor": "Ouro",
-    "id": 143,
-    "neighboringStations": [
-      142,
-      22
     ]
   }
 }
