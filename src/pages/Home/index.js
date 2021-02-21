@@ -13,35 +13,71 @@ import bxsCircle from '@iconify/icons-bx/bxs-circle'
 import pathImage from '../../assets/img/path.png'
 
 import { getStationsList } from '../../utils/otherUtils'
+import { getInstructions } from '../../utils/getInstructions'
 
 const options = getStationsList()
 
 const captions = [
   { color: '#003C86', label: 'Linha 1 - Azul' },
   { color: '#006D58', label: 'Linha 2 - Verde' },
-  { color: '#ED4E17', label: 'Linha 3 - Vermelha' },
+  { color: '#EF4035', label: 'Linha 3 - Vermelha' },
   { color: '#FCBD0F', label: 'Linha 4 - Amarela' },
   { color: '#96387F', label: 'Linha 5 - Lilás' },
+  { color: '#F04E22', label: 'Linha 6 - Laranja' },
   { color: '#808080', label: 'Linha 15 - Prata' },
+  // { color: '#f7941e', label: 'Linha 16 - Ouro' },
 ]
 
 const Home = () => {
-  const [partida, setPartida] = useState(0)
-  const [destino, setDestino] = useState(0)
+  const [partida, setPartida] = useState(-1)
+  const [destino, setDestino] = useState(-1)
+  const [error, setError] = useState('')
+  const [instructions, setInstructions] = useState([])
 
   const map = useRef()
-  const width = useWindowWidth() - 290
+  const width = useWindowWidth() - 300
   const height = useWindowHeight()
 
+  const travelError = (message) => {
+    if (message) {
+      setError(message)
+    } else if (partida === destino && partida !== -1) {
+      setError('A partida e o destino não podem ser iguais.')
+    } else {
+      setError('')
+    }
+  }
+
+  const handleTravel = () => {
+    if (partida === -1 || destino === -1) {
+      travelError('Selecione a partida e o destino.')
+      return
+    }
+    if (partida === destino) {
+      return
+    }
+
+    const travel = getInstructions(partida, destino)
+    setInstructions(travel)
+  }
+
   useEffect(() => {
-    map.current.zoom(width / 2, height / 2, 2)
+    travelError()
+  }, [partida, destino])
+
+  useEffect(() => {
+    map.current.zoom(width / 2, height / 2, 1.4)
+
+    setInstructions([
+      'Digite a estação de partida e a de destino para receber o trajeto.',
+    ])
   }, [])
 
   return (
     <div className='container'>
       {/* sidebar */}
       <div className='sidebar'>
-        <div className='colored-box'>
+        <div className='metro'>
           <div className='project'>
             <InlineIcon
               icon={bxTrain}
@@ -63,8 +99,7 @@ const Home = () => {
                   classNamePrefix='travel_select'
                   placeholder='Partida'
                   options={options}
-                  value={partida}
-                  onChange={(option) => setPartida(option)}
+                  onChange={(option) => setPartida(option.value)}
                 />
               </div>
               <div className='choice'>
@@ -73,52 +108,68 @@ const Home = () => {
                   classNamePrefix='travel_select'
                   placeholder='Destino'
                   options={options}
-                  value={destino}
-                  onChange={(option) => setDestino(option)}
+                  onChange={(option) => setDestino(option.value)}
                 />
               </div>
             </div>
           </div>
+          <div className={`travel-error ${error ? 'has-error' : ''}`}>
+            <p>{error}</p>
+          </div>
           <div className='travel-submit'>
-            <button type='button'>Buscar</button>
+            <button type='button' onClick={handleTravel}>
+              Buscar
+            </button>
           </div>
         </div>
-        <div className='white-box'>
-          <div className='title'>
-            <InlineIcon
-              icon={bxInfo}
-              style={{ color: '#000', fontSize: '25px' }}
-            />
-            <h2>Instruções</h2>
-          </div>
-          <div className='content'>
-            <p>
-              Digite a estação de partida e de destino para receber o trajeto.
-            </p>
-          </div>
-        </div>
-        <div className='white-box'>
-          <div className='title'>
-            <InlineIcon
-              icon={bxCaptions}
-              style={{ color: '#000', fontSize: '25px' }}
-            />
-            <h2>Legenda</h2>
-          </div>
-          <div className='captions'>
-            {captions.map((caption) => (
-              <div className='caption' key={caption.label}>
-                <div className='symbol'>
-                  <InlineIcon
-                    icon={bxsCircle}
-                    style={{ color: caption.color, fontSize: '20px' }}
-                  />
-                </div>
-                <div className='text'>
-                  <p>{caption.label}</p>
-                </div>
+        <div className='instructions'>
+          <div>
+            <div className='white-box'>
+              <div className='title'>
+                <InlineIcon
+                  icon={bxInfo}
+                  style={{ color: '#231F20', fontSize: '25px' }}
+                />
+                <h2>Instruções</h2>
               </div>
-            ))}
+              <div className='content'>
+                {instructions.map((instruction, index) => {
+                  const key = index + 1
+                  if (instructions.length > 1) {
+                    return (
+                      <p key={key}>
+                        <span>{key}.</span> {instruction}
+                      </p>
+                    )
+                  }
+                  return <p key={key}>{instruction}</p>
+                })}
+              </div>
+            </div>
+            <div className='white-box'>
+              <div className='title'>
+                <InlineIcon
+                  icon={bxCaptions}
+                  style={{ color: '#231F20', fontSize: '25px' }}
+                />
+                <h2>Legenda</h2>
+              </div>
+              <div className='captions'>
+                {captions.map((caption) => (
+                  <div className='caption' key={caption.label}>
+                    <div className='symbol'>
+                      <InlineIcon
+                        icon={bxsCircle}
+                        style={{ color: caption.color, fontSize: '20px' }}
+                      />
+                    </div>
+                    <div className='text'>
+                      <p>{caption.label}</p>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -133,6 +184,8 @@ const Home = () => {
               width={width}
               height={height}
               defaultTool={TOOL_PAN}
+              scaleFactorMin={1}
+              scaleFactorMax={5}
               background='#e5e5e5'
               SVGBackground='#e5e5e5'
               customMiniature={() => null}
