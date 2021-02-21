@@ -6,7 +6,7 @@ export const getStationsList = () => {
   return ids.map(
     (stationId) => {
       return {
-        value: stationId,
+        value: parseInt(stationId, 10),
         label: stationsGraph[stationId].stationName,
       }
     })

@@ -1,46 +1,59 @@
 /* eslint-disable */
 const stationsGraph = require('../assets/js/stationsGraph.json')
-const fs = require('fs')
 
-let distances = new Array(150).fill("Infinity")
-let parents = new Array(150).fill(-1)
+const distances = new Array(150)
+const parents = new Array(150)
 
 const BFS = (startStation, endStation) => {
+  let stations = JSON.parse(JSON.stringify(stationsGraph)) // Deep copy of graph
   const queue = []
-  queue.push(startStation)
-  stationsGraph[startStation.id].visited = true
-  distances[startStation.id] = 0
+
+  queue.push(stations[startStation])
+  distances.fill('Infinity')
+  parents.fill(-1)
+
+  stations[startStation].visited = true
+  distances[startStation] = 0
 
   while (queue.length > 0) {
     const currentNode = queue[0]
     queue.shift()
 
-    if (currentNode.id === endStation.id) {
+    if (currentNode.id === endStation) {
       return true
     }
 
     currentNode.neighboringStations.forEach((neigh) => {
-      if (!stationsGraph[neigh].visited) {
+      if (!stations[neigh].visited) {
         distances[neigh] = distances[currentNode.id] + 1
         parents[neigh] = currentNode.id
-        stationsGraph[neigh].visited = true
-        queue.push(stationsGraph[neigh])
+
+        stations[neigh].visited = true
+        queue.push(stations[neigh])
       }
     })
   }
+
   return false
 }
 
 export const getInstructions = (startStation, endStation) => {
-  BFS(startStation, endStation)
-  let path = []
-  let parent = endStation.id
-  while (parent !== startStation.id) {
+  const mensagens = []
+
+  if (!BFS(startStation, endStation)) {
+    mensagens.push('Rota não encontrada')
+    return mensagens
+  }
+
+  const path = []
+  let parent = stationsGraph[endStation].id
+
+  while (parent !== stationsGraph[startStation].id) {
     path.unshift(stationsGraph[parent])
     parent = parents[parent]
   }
   path.unshift(stationsGraph[parent])
-  let mensagens = []
+
   mensagens.push(`Embarque em ${path[0].stationName} sentido à estação ${path[1].stationName}`)
   for (let i = 1; i < path.length - 1; i += 1) {
     if (path[i].lineName === 'Estação de Integração') {
@@ -48,5 +61,6 @@ export const getInstructions = (startStation, endStation) => {
     }
   }
   mensagens.push(`Desembarque em ${path[path.length - 1].stationName}`)
+
   return mensagens
 }
