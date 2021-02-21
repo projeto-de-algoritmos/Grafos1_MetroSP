@@ -292,14 +292,16 @@
     ]
   },
   "26": {
-    "stationName": "Consolação",
+    "stationName": "Consolação - Paulista",
     "lineName": "Linha 2-Verde",
     "lineNumber": 2,
     "lineColor": "Verde",
     "id": 26,
     "neighboringStations": [
       25,
-      27
+      27,
+      106,
+      73
     ]
   },
   "27": {
@@ -762,18 +764,7 @@
     "id": 73,
     "neighboringStations": [
       72,
-      74
-    ]
-  },
-  "74": {
-    "stationName": "Paulista",
-    "lineName": "Linha 4-Amarela",
-    "lineNumber": 4,
-    "lineColor": "Amarela",
-    "id": 74,
-    "neighboringStations": [
-      73,
-      106
+      26
     ]
   },
   "78": {
@@ -1058,7 +1049,7 @@
     "neighboringStations": [
       105,
       107,
-      74,
+      26,
       52
     ]
   },

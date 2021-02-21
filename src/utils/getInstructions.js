@@ -2,25 +2,21 @@
 const stationsGraph = require('../assets/js/stationsGraph.json')
 const fs = require('fs')
 
+let distances = new Array(150).fill("Infinity")
+let parents = new Array(150).fill(-1)
 
-const getInstructions = (rootNode, searchValue) => {
-
-  let distances = new Array(150).fill("Infinity")
-  let parents = new Array(150).fill(-1)
-
+const BFS = (startStation, endStation) => {
   const queue = []
-  queue.push(rootNode)
-  stationsGraph[rootNode.id].visited = true
-  distances[rootNode.id] = 0
+  queue.push(startStation)
+  stationsGraph[startStation.id].visited = true
+  distances[startStation.id] = 0
 
   while (queue.length > 0) {
     const currentNode = queue[0]
     queue.shift()
-    console.log(`Estação: ${currentNode.stationName}`)
 
-    if (currentNode.id === searchValue) {
-      console.log('Chegou')
-      break
+    if (currentNode.id === endStation.id) {
+      return true
     }
 
     currentNode.neighboringStations.forEach((neigh) => {
@@ -33,43 +29,18 @@ const getInstructions = (rootNode, searchValue) => {
     })
   }
 
-  let parent = searchValue.id
-  while (parent !== rootNode.id) {
+  return false
+}
+
+const getInstructions = (startStation, endStation) => {
+  BFS(startStation, endStation)
+  let parent = endStation.id
+  while (parent !== startStation.id) {
     console.log(stationsGraph[parent].stationName)
     parent = parents[parent]
   }
-
-  console.log(distances[searchValue.id])
-
-  // let json = []
-  // for (let i = 0; i < parents.length; i++) {
-  //   if (stationsGraph[i]) {
-  //     json.push({ index: i, id: parents[i], name: stationsGraph[i].stationName })
-  //   }
-  // }
-  // let json2 = []
-  // for (let i = 0; i < distances.length; i++) {
-  //   if (stationsGraph[i]) {
-  //     json2.push({ index: i, id: distances[i], name: stationsGraph[i].stationName })
-  //   }
-  // }
-
-  // fs.writeFile(
-  //   './src/assets/js/aaaaaaa.json',
-  //   JSON.stringify({
-  //     json,
-  //     json2
-  //   }),
-  //   (err) => {
-  //     if (err) {
-  //       // eslint-disable-next-line no-console
-  //       console.log('Erro ao escrever JSON', err)
-  //     } else {
-  //       // eslint-disable-next-line no-console
-  //       console.log('JSON escrito com sucesso')
-  //     }
-  //   }
-  // )
+  console.log(stationsGraph[parent].stationName)
 }
 
-getInstructions(stationsGraph[0], stationsGraph[26])
+getInstructions(stationsGraph[0], stationsGraph[104])
+
